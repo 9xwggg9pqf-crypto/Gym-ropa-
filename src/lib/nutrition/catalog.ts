@@ -83,3 +83,10 @@ export function resolveFood(key: string | null | undefined, inline?: Food | null
   if (inline && (!key || inline.key === key)) return inline
   return getFood(key)
 }
+
+/** Coincidencia exacta por nombre o alias (sin adivinar). */
+export function exactFood(name: string): Food | undefined {
+  const q = normalize(name)
+  if (!q) return undefined
+  return INDEX.find(({ terms }) => terms.includes(q))?.food
+}

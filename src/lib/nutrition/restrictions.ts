@@ -114,7 +114,11 @@ export function checkIngredients(ingredients: RecipeIngredient[], profile: Dieta
 
   for (const ing of ingredients) {
     const food = resolveFood(ing.foodKey, ing.inlineFood)
-    const definite: Allergen[] = food ? food.allergens : detectAllergensByName(ing.name)
+    // Los alimentos de la API de FDC o introducidos a mano no tienen alérgenos catalogados por nosotros:
+    // se combinan con la detección por nombre y se pide revisión.
+    const curated = food?.source === 'usda_sr_legacy'
+    const byName = curated ? [] : detectAllergensByName(`${ing.name} ${food?.name ?? ''}`)
+    const definite: Allergen[] = [...new Set([...(food?.allergens ?? []), ...byName])]
     const possible: Allergen[] = food ? food.mayContain : []
 
     for (const { allergen, reason } of avoided) {
@@ -136,12 +140,14 @@ export function checkIngredients(ingredients: RecipeIngredient[], profile: Dieta
         })
       }
     }
-    if (!food && avoided.length > 0) {
+    if (!curated && avoided.length > 0) {
       issues.push({
         ingredientId: ing.id,
         ingredientName: ing.name,
         severity: 'revisar',
-        message: 'Ingrediente sin datos de alérgenos en nuestra base: compruébalo tú antes de cocinar.',
+        message: food
+          ? 'Los alérgenos de este alimento no están verificados por SNACKEATS: revisa la etiqueta.'
+          : 'Ingrediente sin datos de alérgenos en nuestra base: compruébalo tú antes de cocinar.',
       })
     }
     const diet = dietConflict(food, ing.name, profile.diets)
