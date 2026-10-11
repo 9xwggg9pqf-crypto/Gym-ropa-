@@ -1,0 +1,50 @@
+import type { Messages } from './es'
+
+// Traducción inicial al inglés de las cadenas comunes. Las pantallas aún no
+// extraídas al diccionario se muestran en español (ver README, i18n).
+export const en: Messages = {
+  brand: { name: 'SNACKEATS', tagline: 'What you have. What you crave. What you need.' },
+  nav: {
+    home: 'Home',
+    scan: 'Scan',
+    create: 'Create',
+    recipes: 'Recipes',
+    plan: 'Plan',
+    shopping: 'Shopping',
+    pantry: 'Pantry',
+    profile: 'Profile',
+    plans: 'Plans',
+    planner: 'Weekly planner',
+    shoppingList: 'Shopping list',
+    myRecipes: 'My recipes',
+  },
+  common: {
+    save: 'Save',
+    saved: 'Saved',
+    cancel: 'Cancel',
+    delete: 'Delete',
+    edit: 'Edit',
+    add: 'Add',
+    retry: 'Retry',
+    close: 'Close',
+    back: 'Back',
+    loading: 'Loading…',
+    search: 'Search',
+    servings: 'servings',
+    serving: 'serving',
+    perServing: 'Per serving',
+    total: 'Whole recipe',
+    minutes: 'min',
+    signIn: 'Sign in',
+    signOut: 'Sign out',
+    guest: 'Guest',
+  },
+  units: { g: 'g', kg: 'kg', ml: 'ml', l: 'l', unidad: 'piece', cda: 'tbsp', cdta: 'tsp', taza: 'cup', pizca: 'pinch' },
+  macros: { kcal: 'Energy', protein: 'Protein', carbs: 'Carbohydrate', fat: 'Fat', fiber: 'Fibre', sugars: 'of which sugars', satFat: 'of which saturates', sodiumMg: 'Sodium' },
+  difficulty: { facil: 'Easy', media: 'Medium', dificil: 'Hard' },
+  errors: {
+    generic: 'Something went wrong. Please try again.',
+    network: 'Cannot reach the server. Check your connection and try again.',
+    notConfigured: 'This feature needs server configuration.',
+  },
+}

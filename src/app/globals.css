@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  SNACKEATS — sistema visual
+  Concepto: "báscula y etiqueta". Superficies limpias, cifras en gramos protagonistas,
+  la tabla nutricional como objeto reconocible. Berenjena (marca) + azafrán (acción).
+  Macros con color fijo: proteína = pimiento, carbohidratos = azafrán tostado, grasas = oliva.
+*/
+:root {
+  --bg: 247 245 250;
+  --surface: 255 255 255;
+  --sunken: 240 236 245;
+  --line: 228 222 235;
+  --ink: 33 22 41;
+  --muted: 106 96 118;
+  --brand: 74 33 96;
+  --brand-ink: 74 33 96;
+  --saffron: 244 176 62;
+  --saffron-ink: 138 83 0;
+  --on-saffron: 42 20 50;
+  --protein: 201 62 42;
+  --carbs: 150 94 6;
+  --fat: 86 114 30;
+  --ok: 28 118 76;
+  --warn: 146 88 0;
+  --danger: 190 38 52;
+  --shadow: 40 16 56;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: 21 15 26;
+    --surface: 32 24 39;
+    --sunken: 27 20 33;
+    --line: 56 45 66;
+    --ink: 243 238 247;
+    --muted: 172 160 184;
+    --brand: 106 58 136;
+    --brand-ink: 212 182 232;
+    --saffron: 246 186 82;
+    --saffron-ink: 246 186 82;
+    --on-saffron: 34 16 40;
+    --protein: 240 118 96;
+    --carbs: 238 176 70;
+    --fat: 160 196 88;
+    --ok: 86 196 140;
+    --warn: 236 176 70;
+    --danger: 244 108 120;
+    --shadow: 0 0 0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme='dark'] {
+  --bg: 21 15 26;
+  --surface: 32 24 39;
+  --sunken: 27 20 33;
+  --line: 56 45 66;
+  --ink: 243 238 247;
+  --muted: 172 160 184;
+  --brand: 106 58 136;
+  --brand-ink: 212 182 232;
+  --saffron: 246 186 82;
+  --saffron-ink: 246 186 82;
+  --on-saffron: 34 16 40;
+  --protein: 240 118 96;
+  --carbs: 238 176 70;
+  --fat: 160 196 88;
+  --ok: 86 196 140;
+  --warn: 236 176 70;
+  --danger: 244 108 120;
+  --shadow: 0 0 0;
+  color-scheme: dark;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--ink));
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3 { text-wrap: balance; }
+.num { font-variant-numeric: tabular-nums; }
+.label-caps { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.6875rem; font-weight: 600; }
+
+:focus-visible {
+  outline: 3px solid rgb(var(--saffron));
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Entrada numérica sin flechas nativas (usamos steppers accesibles) */
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+input[type='number'] { -moz-appearance: textfield; appearance: textfield; }
+
+.safe-bottom { padding-bottom: env(safe-area-inset-bottom, 0px); }
+.safe-top { padding-top: env(safe-area-inset-top, 0px); }

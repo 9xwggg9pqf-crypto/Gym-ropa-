@@ -1,0 +1,6967 @@
+{
+ "source": "USDA FoodData Central — SR Legacy (abril 2018). Dominio público (CC0 1.0).",
+ "sourceUrl": "https://fdc.nal.usda.gov/",
+ "generatedAt": "2026-10-11",
+ "count": 197,
+ "foods": [
+  {
+   "key": "pechuga_pollo_cruda",
+   "fdcId": 171077,
+   "name": "Pechuga de pollo (cruda)",
+   "aliases": [
+    "pollo",
+    "pechuga",
+    "pechuga de pollo",
+    "filete de pollo"
+   ],
+   "usdaDescription": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 22.5,
+    "fat": 2.62,
+    "carbs": 0,
+    "kcal": 120,
+    "fiber": 0,
+    "sodiumMg": 45,
+    "satFat": 0.563,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pechuga_pollo_asada",
+   "fdcId": 171477,
+   "name": "Pechuga de pollo (cocinada)",
+   "aliases": [
+    "pollo cocinado",
+    "pollo asado"
+   ],
+   "usdaDescription": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 31.02,
+    "fat": 3.57,
+    "carbs": 0,
+    "kcal": 165,
+    "fiber": 0,
+    "sodiumMg": 74,
+    "satFat": 1.01,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 140,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "muslo_pollo_crudo",
+   "fdcId": 173627,
+   "name": "Muslo de pollo sin piel (crudo)",
+   "aliases": [
+    "contramuslo",
+    "muslo de pollo"
+   ],
+   "usdaDescription": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 19.66,
+    "fat": 4.12,
+    "carbs": 0,
+    "kcal": 121,
+    "fiber": 0,
+    "sodiumMg": 95,
+    "satFat": 1.097,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pollo_picado_crudo",
+   "fdcId": 171116,
+   "name": "Carne picada de pollo (cruda)",
+   "aliases": [
+    "picada de pollo"
+   ],
+   "usdaDescription": "Chicken, ground, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 17.44,
+    "fat": 8.1,
+    "carbs": 0.04,
+    "kcal": 143,
+    "fiber": 0,
+    "sodiumMg": 60,
+    "satFat": 2.301,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pechuga_pavo_cruda",
+   "fdcId": 171098,
+   "name": "Pechuga de pavo (cruda)",
+   "aliases": [
+    "pavo",
+    "pechuga de pavo"
+   ],
+   "usdaDescription": "Turkey, whole, breast, meat only, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 23.66,
+    "fat": 1.48,
+    "carbs": 0.14,
+    "kcal": 114,
+    "fiber": 0,
+    "sodiumMg": 113,
+    "satFat": 0.289,
+    "sugars": 0.05
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pavo_picado_crudo",
+   "fdcId": 172850,
+   "name": "Carne picada de pavo 93/7 (cruda)",
+   "aliases": [
+    "picada de pavo"
+   ],
+   "usdaDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 18.73,
+    "fat": 8.34,
+    "carbs": 0,
+    "kcal": 150,
+    "fiber": 0,
+    "sodiumMg": 69,
+    "satFat": 2.17,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "ternera_picada_95_cruda",
+   "fdcId": 171790,
+   "name": "Carne picada de ternera 95/5 (cruda)",
+   "aliases": [
+    "picada magra",
+    "carne picada magra"
+   ],
+   "usdaDescription": "Beef, ground, 95% lean meat / 5% fat, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 21.41,
+    "fat": 5,
+    "carbs": 0,
+    "kcal": 137,
+    "fiber": 0,
+    "sodiumMg": 66,
+    "satFat": 2.182,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "ternera_picada_90_cruda",
+   "fdcId": 174030,
+   "name": "Carne picada de ternera 90/10 (cruda)",
+   "aliases": [
+    "carne picada",
+    "picada de ternera",
+    "carne molida"
+   ],
+   "usdaDescription": "Beef, ground, 90% lean meat / 10% fat, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 20,
+    "fat": 10,
+    "carbs": 0,
+    "kcal": 176,
+    "fiber": 0,
+    "sodiumMg": 66,
+    "satFat": 3.927,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "ternera_picada_85_cruda",
+   "fdcId": 171796,
+   "name": "Carne picada de ternera 85/15 (cruda)",
+   "aliases": [
+    "picada de vacuno"
+   ],
+   "usdaDescription": "Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 18.59,
+    "fat": 15,
+    "carbs": 0,
+    "kcal": 215,
+    "fiber": 0,
+    "sodiumMg": 66,
+    "satFat": 5.715,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "ternera_picada_80_cruda",
+   "fdcId": 174036,
+   "name": "Carne picada de ternera 80/20 (cruda)",
+   "aliases": [
+    "carne de hamburguesa"
+   ],
+   "usdaDescription": "Beef, ground, 80% lean meat / 20% fat, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 17.17,
+    "fat": 20,
+    "carbs": 0,
+    "kcal": 254,
+    "fiber": 0,
+    "sodiumMg": 66,
+    "satFat": 7.581,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "solomillo_ternera_crudo",
+   "fdcId": 174055,
+   "name": "Filete de ternera magro, cadera (crudo)",
+   "aliases": [
+    "filete de ternera",
+    "bistec",
+    "ternera"
+   ],
+   "usdaDescription": "Beef, top sirloin, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 22.09,
+    "fat": 4.08,
+    "carbs": 0,
+    "kcal": 131,
+    "fiber": 0,
+    "sodiumMg": 56,
+    "satFat": 1.508,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "solomillo_cerdo_crudo",
+   "fdcId": 168249,
+   "name": "Solomillo de cerdo (crudo)",
+   "aliases": [
+    "cerdo",
+    "lomo de cerdo",
+    "solomillo"
+   ],
+   "usdaDescription": "Pork, fresh, loin, tenderloin, separable lean only, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 20.95,
+    "fat": 2.17,
+    "carbs": 0,
+    "kcal": 109,
+    "fiber": 0,
+    "sodiumMg": 53,
+    "satFat": 0.698,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "cordero_pierna_cruda",
+   "fdcId": 172486,
+   "name": "Pierna de cordero magra (cruda)",
+   "aliases": [
+    "cordero"
+   ],
+   "usdaDescription": "Lamb, leg, shank half, separable lean only, trimmed to 1/4\" fat, choice, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 20.52,
+    "fat": 4.19,
+    "carbs": 0,
+    "kcal": 125,
+    "fiber": 0,
+    "sodiumMg": 61,
+    "satFat": 1.5,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "jamon_cocido",
+   "fdcId": 173863,
+   "name": "Jamón cocido extra (fiambre)",
+   "aliases": [
+    "jamón york",
+    "jamon cocido",
+    "fiambre"
+   ],
+   "usdaDescription": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "leche",
+    "soja",
+    "gluten",
+    "sulfitos"
+   ],
+   "animal": "meat",
+   "per100g": {
+    "protein": 16.85,
+    "fat": 4.04,
+    "carbs": 0.7,
+    "kcal": 107,
+    "fiber": 0,
+    "sodiumMg": 945,
+    "satFat": 1.227,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "unidad",
+     "grams": 13,
+     "usda": "1 slice"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "bacon",
+   "fdcId": 168277,
+   "name": "Bacon / panceta curada (cruda)",
+   "aliases": [
+    "bacon",
+    "beicon",
+    "panceta"
+   ],
+   "usdaDescription": "Pork, cured, bacon, unprepared",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [
+    "sulfitos"
+   ],
+   "animal": "meat",
+   "per100g": {
+    "protein": 13.66,
+    "fat": 37.13,
+    "carbs": 0,
+    "kcal": 393,
+    "fiber": 0,
+    "sodiumMg": 751,
+    "satFat": 12.615,
+    "sugars": 0.35
+   },
+   "portions": {
+    "unit": {
+     "name": "unidad",
+     "grams": 28,
+     "usda": "1 slice raw"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "chorizo",
+   "fdcId": 173859,
+   "name": "Chorizo (crudo)",
+   "aliases": [
+    "chorizo"
+   ],
+   "usdaDescription": "Sausage, pork, chorizo, link or ground, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [
+    "leche",
+    "soja",
+    "gluten",
+    "sulfitos"
+   ],
+   "animal": "meat",
+   "per100g": {
+    "protein": 13.63,
+    "fat": 25.1,
+    "carbs": 3.78,
+    "kcal": 296,
+    "fiber": 0,
+    "sodiumMg": 788,
+    "satFat": 8.595,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "chorizo",
+     "grams": 60,
+     "usda": "1 link (4\" long)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "salchicha_italiana_cruda",
+   "fdcId": 171631,
+   "name": "Salchicha de cerdo tipo italiana (cruda)",
+   "aliases": [
+    "salchicha",
+    "salchichas"
+   ],
+   "usdaDescription": "Sausage, Italian, pork, mild, raw",
+   "category": "carnes",
+   "group": "protein_meat",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [
+    "leche",
+    "soja",
+    "gluten",
+    "sulfitos",
+    "mostaza",
+    "apio"
+   ],
+   "animal": "meat",
+   "per100g": {
+    "protein": 13.9,
+    "fat": 24.26,
+    "carbs": 2.97,
+    "kcal": 290,
+    "fiber": 0,
+    "sodiumMg": 563,
+    "satFat": 8.615,
+    "sugars": 1.19
+   },
+   "portions": {
+    "unit": {
+     "name": "salchicha",
+     "grams": 101,
+     "usda": "1 link"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "salmon_crudo",
+   "fdcId": 175167,
+   "name": "Salmón atlántico de piscifactoría (crudo)",
+   "aliases": [
+    "salmón",
+    "salmon"
+   ],
+   "usdaDescription": "Fish, salmon, Atlantic, farmed, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 20.42,
+    "fat": 13.42,
+    "carbs": 0,
+    "kcal": 208,
+    "fiber": 0,
+    "sodiumMg": 59,
+    "satFat": 3.05,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "salmon_salvaje_crudo",
+   "fdcId": 173686,
+   "name": "Salmón atlántico salvaje (crudo)",
+   "aliases": [
+    "salmón salvaje"
+   ],
+   "usdaDescription": "Fish, salmon, Atlantic, wild, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 19.84,
+    "fat": 6.34,
+    "carbs": 0,
+    "kcal": 142,
+    "fiber": 0,
+    "sodiumMg": 44,
+    "satFat": 0.981,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "atun_lata_agua",
+   "fdcId": 173709,
+   "name": "Atún claro al natural, escurrido",
+   "aliases": [
+    "atún",
+    "atun",
+    "atún al natural",
+    "atún en lata"
+   ],
+   "usdaDescription": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "canned",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 19.44,
+    "fat": 0.96,
+    "carbs": 0,
+    "kcal": 86,
+    "fiber": 0,
+    "sodiumMg": 247,
+    "satFat": 0.211,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 154,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "atun_lata_aceite",
+   "fdcId": 173708,
+   "name": "Atún claro en aceite, escurrido",
+   "aliases": [
+    "atún en aceite"
+   ],
+   "usdaDescription": "Fish, tuna, light, canned in oil, drained solids",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "canned",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 29.13,
+    "fat": 8.21,
+    "carbs": 0,
+    "kcal": 198,
+    "fiber": 0,
+    "sodiumMg": 416,
+    "satFat": 1.534,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 146,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "atun_fresco_crudo",
+   "fdcId": 175159,
+   "name": "Atún fresco, rabil (crudo)",
+   "aliases": [
+    "atún fresco"
+   ],
+   "usdaDescription": "Fish, tuna, fresh, yellowfin, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 24.4,
+    "fat": 0.49,
+    "carbs": 0,
+    "kcal": 109,
+    "fiber": 0,
+    "sodiumMg": 45,
+    "satFat": 0.172,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "bacalao_crudo",
+   "fdcId": 171955,
+   "name": "Bacalao fresco (crudo)",
+   "aliases": [
+    "bacalao"
+   ],
+   "usdaDescription": "Fish, cod, Atlantic, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 17.81,
+    "fat": 0.67,
+    "carbs": 0,
+    "kcal": 82,
+    "fiber": 0,
+    "sodiumMg": 54,
+    "satFat": 0.131,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "merluza_cruda",
+   "fdcId": 173713,
+   "name": "Pescadilla / merlán (cruda)",
+   "aliases": [
+    "pescadilla",
+    "merlán",
+    "pescado blanco"
+   ],
+   "usdaDescription": "Fish, whiting, mixed species, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 18.31,
+    "fat": 1.31,
+    "carbs": 0,
+    "kcal": 90,
+    "fiber": 0,
+    "sodiumMg": 72,
+    "satFat": 0.247,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tilapia_cruda",
+   "fdcId": 175176,
+   "name": "Tilapia (cruda)",
+   "aliases": [
+    "tilapia"
+   ],
+   "usdaDescription": "Fish, tilapia, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 20.08,
+    "fat": 1.7,
+    "carbs": 0,
+    "kcal": 96,
+    "fiber": 0,
+    "sodiumMg": 52,
+    "satFat": 0.585,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "trucha_cruda",
+   "fdcId": 173717,
+   "name": "Trucha arcoíris (cruda)",
+   "aliases": [
+    "trucha"
+   ],
+   "usdaDescription": "Fish, trout, rainbow, farmed, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 19.94,
+    "fat": 6.18,
+    "carbs": 0,
+    "kcal": 141,
+    "fiber": 0,
+    "sodiumMg": 51,
+    "satFat": 1.383,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "caballa_cruda",
+   "fdcId": 175119,
+   "name": "Caballa (cruda)",
+   "aliases": [
+    "caballa",
+    "verdel"
+   ],
+   "usdaDescription": "Fish, mackerel, Atlantic, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 18.6,
+    "fat": 13.89,
+    "carbs": 0,
+    "kcal": 205,
+    "fiber": 0,
+    "sodiumMg": 90,
+    "satFat": 3.257,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "sardinas_lata_aceite",
+   "fdcId": 175139,
+   "name": "Sardinas en aceite, escurridas",
+   "aliases": [
+    "sardinas"
+   ],
+   "usdaDescription": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "canned",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 24.62,
+    "fat": 11.45,
+    "carbs": 0,
+    "kcal": 208,
+    "fiber": 0,
+    "sodiumMg": 307,
+    "satFat": 1.528,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 149,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "gambas_crudas",
+   "fdcId": 175179,
+   "name": "Gambas / langostinos (crudos)",
+   "aliases": [
+    "gambas",
+    "langostinos",
+    "camarones"
+   ],
+   "usdaDescription": "Crustaceans, shrimp, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "crustaceos"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 20.1,
+    "fat": 0.51,
+    "carbs": 0,
+    "kcal": 85,
+    "fiber": null,
+    "sodiumMg": 119,
+    "satFat": 0.101,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "calamar_crudo",
+   "fdcId": 174223,
+   "name": "Calamar (crudo)",
+   "aliases": [
+    "calamar",
+    "calamares"
+   ],
+   "usdaDescription": "Mollusks, squid, mixed species, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "moluscos"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 15.58,
+    "fat": 1.38,
+    "carbs": 3.08,
+    "kcal": 92,
+    "fiber": 0,
+    "sodiumMg": 44,
+    "satFat": 0.358,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "mejillones_crudos",
+   "fdcId": 174216,
+   "name": "Mejillones (crudos, sin concha)",
+   "aliases": [
+    "mejillones"
+   ],
+   "usdaDescription": "Mollusks, mussel, blue, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "moluscos"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 11.9,
+    "fat": 2.24,
+    "carbs": 3.69,
+    "kcal": 86,
+    "fiber": 0,
+    "sodiumMg": 286,
+    "satFat": 0.425,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 150,
+    "densityGPerMl": 0.634
+   }
+  },
+  {
+   "key": "pulpo_crudo",
+   "fdcId": 174218,
+   "name": "Pulpo (crudo)",
+   "aliases": [
+    "pulpo"
+   ],
+   "usdaDescription": "Mollusks, octopus, common, raw",
+   "category": "pescados",
+   "group": "protein_fish",
+   "state": "raw",
+   "allergens": [
+    "moluscos"
+   ],
+   "mayContain": [],
+   "animal": "fish",
+   "per100g": {
+    "protein": 14.91,
+    "fat": 1.04,
+    "carbs": 2.2,
+    "kcal": 82,
+    "fiber": 0,
+    "sodiumMg": 230,
+    "satFat": 0.227,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "huevo",
+   "fdcId": 171287,
+   "name": "Huevo entero (crudo)",
+   "aliases": [
+    "huevo",
+    "huevos"
+   ],
+   "usdaDescription": "Egg, whole, raw, fresh",
+   "category": "huevos_lacteos",
+   "group": "egg",
+   "state": "raw",
+   "allergens": [
+    "huevo"
+   ],
+   "mayContain": [],
+   "animal": "egg",
+   "per100g": {
+    "protein": 12.56,
+    "fat": 9.51,
+    "carbs": 0.72,
+    "kcal": 143,
+    "fiber": 0,
+    "sodiumMg": 142,
+    "satFat": 3.126,
+    "sugars": 0.37
+   },
+   "portions": {
+    "unit": {
+     "name": "huevo L",
+     "grams": 50,
+     "usda": "1 large"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 243,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "clara_huevo",
+   "fdcId": 172183,
+   "name": "Clara de huevo (cruda)",
+   "aliases": [
+    "clara",
+    "claras"
+   ],
+   "usdaDescription": "Egg, white, raw, fresh",
+   "category": "huevos_lacteos",
+   "group": "egg",
+   "state": "raw",
+   "allergens": [
+    "huevo"
+   ],
+   "mayContain": [],
+   "animal": "egg",
+   "per100g": {
+    "protein": 10.9,
+    "fat": 0.17,
+    "carbs": 0.73,
+    "kcal": 52,
+    "fiber": 0,
+    "sodiumMg": 166,
+    "satFat": 0,
+    "sugars": 0.71
+   },
+   "portions": {
+    "unit": {
+     "name": "clara (huevo L)",
+     "grams": 33,
+     "usda": "1 large"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 243,
+    "densityGPerMl": 1.027
+   }
+  },
+  {
+   "key": "yema_huevo",
+   "fdcId": 172184,
+   "name": "Yema de huevo (cruda)",
+   "aliases": [
+    "yema",
+    "yemas"
+   ],
+   "usdaDescription": "Egg, yolk, raw, fresh",
+   "category": "huevos_lacteos",
+   "group": "egg",
+   "state": "raw",
+   "allergens": [
+    "huevo"
+   ],
+   "mayContain": [],
+   "animal": "egg",
+   "per100g": {
+    "protein": 15.86,
+    "fat": 26.54,
+    "carbs": 3.59,
+    "kcal": 322,
+    "fiber": 0,
+    "sodiumMg": 48,
+    "satFat": 9.551,
+    "sugars": 0.56
+   },
+   "portions": {
+    "unit": {
+     "name": "yema (huevo L)",
+     "grams": 17,
+     "usda": "1 large"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 243,
+    "densityGPerMl": 1.027
+   }
+  },
+  {
+   "key": "huevo_cocido",
+   "fdcId": 173424,
+   "name": "Huevo cocido",
+   "aliases": [
+    "huevo duro"
+   ],
+   "usdaDescription": "Egg, whole, cooked, hard-boiled",
+   "category": "huevos_lacteos",
+   "group": "egg",
+   "state": "cooked",
+   "allergens": [
+    "huevo"
+   ],
+   "mayContain": [],
+   "animal": "egg",
+   "per100g": {
+    "protein": 12.58,
+    "fat": 10.61,
+    "carbs": 1.12,
+    "kcal": 155,
+    "fiber": 0,
+    "sodiumMg": 124,
+    "satFat": 3.267,
+    "sugars": 1.12
+   },
+   "portions": {
+    "unit": {
+     "name": "huevo L",
+     "grams": 50,
+     "usda": "1 large"
+    },
+    "tbspG": 8.5,
+    "tspG": null,
+    "cupG": 136,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "leche_entera",
+   "fdcId": 171265,
+   "name": "Leche entera",
+   "aliases": [
+    "leche"
+   ],
+   "usdaDescription": "Milk, whole, 3.25% milkfat, with added vitamin D",
+   "category": "huevos_lacteos",
+   "group": "dairy_liquid",
+   "state": "raw",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 3.15,
+    "fat": 3.25,
+    "carbs": 4.8,
+    "kcal": 61,
+    "fiber": 0,
+    "sodiumMg": 43,
+    "satFat": 1.865,
+    "sugars": 5.05
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 15,
+    "tspG": null,
+    "cupG": 244,
+    "densityGPerMl": 1.031
+   }
+  },
+  {
+   "key": "leche_semidesnatada",
+   "fdcId": 171267,
+   "name": "Leche semidesnatada (2 %)",
+   "aliases": [
+    "leche semi"
+   ],
+   "usdaDescription": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+   "category": "huevos_lacteos",
+   "group": "dairy_liquid",
+   "state": "raw",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 3.3,
+    "fat": 1.98,
+    "carbs": 4.8,
+    "kcal": 50,
+    "fiber": 0,
+    "sodiumMg": 47,
+    "satFat": 1.257,
+    "sugars": 5.06
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 244,
+    "densityGPerMl": 1.031
+   }
+  },
+  {
+   "key": "leche_desnatada",
+   "fdcId": 171269,
+   "name": "Leche desnatada",
+   "aliases": [
+    "leche desnatada"
+   ],
+   "usdaDescription": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+   "category": "huevos_lacteos",
+   "group": "dairy_liquid",
+   "state": "raw",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 3.37,
+    "fat": 0.08,
+    "carbs": 4.96,
+    "kcal": 34,
+    "fiber": 0,
+    "sodiumMg": 42,
+    "satFat": 0.056,
+    "sugars": 5.09
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 245,
+    "densityGPerMl": 1.036
+   }
+  },
+  {
+   "key": "bebida_soja",
+   "fdcId": 172446,
+   "name": "Bebida de soja sin enriquecer",
+   "aliases": [
+    "leche de soja",
+    "bebida de soja"
+   ],
+   "usdaDescription": "Soymilk, original and vanilla, unfortified",
+   "category": "bebidas_vegetales",
+   "group": "dairy_liquid",
+   "state": "prepared",
+   "allergens": [
+    "soja"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 3.27,
+    "fat": 1.75,
+    "carbs": 6.28,
+    "kcal": 54,
+    "fiber": 0.6,
+    "sodiumMg": 51,
+    "satFat": 0.205,
+    "sugars": 3.99
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 243,
+    "densityGPerMl": 1.027
+   }
+  },
+  {
+   "key": "bebida_almendra",
+   "fdcId": 174832,
+   "name": "Bebida de almendra sin azúcar",
+   "aliases": [
+    "leche de almendras",
+    "bebida de almendra"
+   ],
+   "usdaDescription": "Beverages, almond milk, unsweetened, shelf stable",
+   "category": "bebidas_vegetales",
+   "group": "dairy_liquid",
+   "state": "prepared",
+   "allergens": [
+    "frutos_cascara"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.4,
+    "fat": 0.96,
+    "carbs": 1.31,
+    "kcal": 15,
+    "fiber": 0.2,
+    "sodiumMg": 72,
+    "satFat": 0.08,
+    "sugars": 0.81
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 262,
+    "densityGPerMl": 1.107
+   }
+  },
+  {
+   "key": "yogur_griego_desnatado",
+   "fdcId": 170894,
+   "name": "Yogur griego natural desnatado",
+   "aliases": [
+    "yogur griego",
+    "yogur proteico"
+   ],
+   "usdaDescription": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",
+   "category": "huevos_lacteos",
+   "group": "yogurt",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 10.19,
+    "fat": 0.39,
+    "carbs": 3.6,
+    "kcal": 59,
+    "fiber": 0,
+    "sodiumMg": 36,
+    "satFat": 0.117,
+    "sugars": 3.24
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "yogur_griego_bajo_grasa",
+   "fdcId": 170903,
+   "name": "Yogur griego natural bajo en grasa",
+   "aliases": [
+    "yogur griego 2%"
+   ],
+   "usdaDescription": "Yogurt, Greek, plain, lowfat",
+   "category": "huevos_lacteos",
+   "group": "yogurt",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 9.95,
+    "fat": 1.92,
+    "carbs": 3.94,
+    "kcal": 73,
+    "fiber": 0,
+    "sodiumMg": 34,
+    "satFat": 1.23,
+    "sugars": 3.56
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "yogur_natural",
+   "fdcId": 170886,
+   "name": "Yogur natural bajo en grasa",
+   "aliases": [
+    "yogur",
+    "yogur natural"
+   ],
+   "usdaDescription": "Yogurt, plain, low fat",
+   "category": "huevos_lacteos",
+   "group": "yogurt",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 5.25,
+    "fat": 1.55,
+    "carbs": 7.04,
+    "kcal": 63,
+    "fiber": 0,
+    "sodiumMg": 70,
+    "satFat": 1,
+    "sugars": 7.04
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 245,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_cottage",
+   "fdcId": 172182,
+   "name": "Queso cottage 2 %",
+   "aliases": [
+    "cottage",
+    "requesón"
+   ],
+   "usdaDescription": "Cheese, cottage, lowfat, 2% milkfat",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 10.45,
+    "fat": 2.27,
+    "carbs": 4.76,
+    "kcal": 81,
+    "fiber": 0,
+    "sodiumMg": 308,
+    "satFat": 1.235,
+    "sugars": 4
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 226,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_mozzarella",
+   "fdcId": 170845,
+   "name": "Mozzarella",
+   "aliases": [
+    "mozzarella",
+    "queso para pizza"
+   ],
+   "usdaDescription": "Cheese, mozzarella, whole milk",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 22.17,
+    "fat": 22.14,
+    "carbs": 2.4,
+    "kcal": 299,
+    "fiber": 0,
+    "sodiumMg": 486,
+    "satFat": 13.9,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 112,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_mozzarella_light",
+   "fdcId": 170847,
+   "name": "Mozzarella semidesnatada",
+   "aliases": [
+    "mozzarella light"
+   ],
+   "usdaDescription": "Cheese, mozzarella, part skim milk",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 24.26,
+    "fat": 15.92,
+    "carbs": 2.77,
+    "kcal": 254,
+    "fiber": 0,
+    "sodiumMg": 619,
+    "satFat": 10.114,
+    "sugars": 1.13
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_parmesano",
+   "fdcId": 171247,
+   "name": "Parmesano rallado",
+   "aliases": [
+    "parmesano",
+    "queso rallado"
+   ],
+   "usdaDescription": "Cheese, parmesan, grated",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 28.42,
+    "fat": 27.84,
+    "carbs": 13.91,
+    "kcal": 420,
+    "fiber": 0,
+    "sodiumMg": 1804,
+    "satFat": 15.371,
+    "sugars": 0.07
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 5,
+    "tspG": null,
+    "cupG": 100,
+    "densityGPerMl": 0.423
+   }
+  },
+  {
+   "key": "queso_cheddar",
+   "fdcId": 173414,
+   "name": "Queso cheddar",
+   "aliases": [
+    "cheddar"
+   ],
+   "usdaDescription": "Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 22.87,
+    "fat": 33.31,
+    "carbs": 3.37,
+    "kcal": 403,
+    "fiber": 0,
+    "sodiumMg": 653,
+    "satFat": 18.867,
+    "sugars": 0.48
+   },
+   "portions": {
+    "unit": {
+     "name": "unidad",
+     "grams": 28,
+     "usda": "1 slice (1 oz)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 132,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_feta",
+   "fdcId": 173420,
+   "name": "Queso feta",
+   "aliases": [
+    "feta"
+   ],
+   "usdaDescription": "Cheese, feta",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 14.21,
+    "fat": 21.49,
+    "carbs": 3.88,
+    "kcal": 265,
+    "fiber": 0,
+    "sodiumMg": 1139,
+    "satFat": 13.3,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 150,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_fresco",
+   "fdcId": 172223,
+   "name": "Queso fresco (tipo latinoamericano)",
+   "aliases": [
+    "queso fresco tipo latino"
+   ],
+   "usdaDescription": "Cheese, fresh, queso fresco",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 18.09,
+    "fat": 23.82,
+    "carbs": 2.98,
+    "kcal": 299,
+    "fiber": 0,
+    "sodiumMg": 751,
+    "satFat": 12.94,
+    "sugars": 2.32
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 122,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_crema",
+   "fdcId": 173418,
+   "name": "Queso crema",
+   "aliases": [
+    "queso crema",
+    "philadelphia"
+   ],
+   "usdaDescription": "Cheese, cream",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 6.15,
+    "fat": 34.44,
+    "carbs": 5.52,
+    "kcal": 350,
+    "fiber": 0,
+    "sodiumMg": 314,
+    "satFat": 20.213,
+    "sugars": 3.76
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 14.5,
+    "tspG": null,
+    "cupG": 232,
+    "densityGPerMl": 0.981
+   }
+  },
+  {
+   "key": "queso_ricotta",
+   "fdcId": 171248,
+   "name": "Ricotta semidesnatada",
+   "aliases": [
+    "ricotta"
+   ],
+   "usdaDescription": "Cheese, ricotta, part skim milk",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 11.39,
+    "fat": 7.91,
+    "carbs": 5.14,
+    "kcal": 138,
+    "fiber": 0,
+    "sodiumMg": 99,
+    "satFat": 4.927,
+    "sugars": 0.31
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 248,
+    "densityGPerMl": 1.048
+   }
+  },
+  {
+   "key": "queso_cabra",
+   "fdcId": 173435,
+   "name": "Queso de cabra tierno",
+   "aliases": [
+    "queso de cabra",
+    "rulo de cabra"
+   ],
+   "usdaDescription": "Cheese, goat, soft type",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 18.52,
+    "fat": 21.08,
+    "carbs": 0,
+    "kcal": 264,
+    "fiber": 0,
+    "sodiumMg": 459,
+    "satFat": 14.575,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_gouda",
+   "fdcId": 171241,
+   "name": "Queso gouda",
+   "aliases": [
+    "gouda",
+    "queso en lonchas"
+   ],
+   "usdaDescription": "Cheese, gouda",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 24.94,
+    "fat": 27.44,
+    "carbs": 2.22,
+    "kcal": 356,
+    "fiber": 0,
+    "sodiumMg": 819,
+    "satFat": 17.614,
+    "sugars": 2.22
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_emmental",
+   "fdcId": 171251,
+   "name": "Queso suizo / emmental",
+   "aliases": [
+    "emmental",
+    "queso suizo"
+   ],
+   "usdaDescription": "Cheese, swiss",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 26.96,
+    "fat": 30.99,
+    "carbs": 1.44,
+    "kcal": 393,
+    "fiber": 0,
+    "sodiumMg": 187,
+    "satFat": 18.227,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 132,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "queso_provolone",
+   "fdcId": 170850,
+   "name": "Queso provolone",
+   "aliases": [
+    "provolone"
+   ],
+   "usdaDescription": "Cheese, provolone",
+   "category": "huevos_lacteos",
+   "group": "cheese",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 25.58,
+    "fat": 26.62,
+    "carbs": 2.14,
+    "kcal": 351,
+    "fiber": 0,
+    "sodiumMg": 727,
+    "satFat": 17.078,
+    "sugars": 0.56
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 132,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "mantequilla",
+   "fdcId": 173430,
+   "name": "Mantequilla sin sal",
+   "aliases": [
+    "mantequilla"
+   ],
+   "usdaDescription": "Butter, without salt",
+   "category": "huevos_lacteos",
+   "group": "fat_butter",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 0.85,
+    "fat": 81.11,
+    "carbs": 0.06,
+    "kcal": 717,
+    "fiber": 0,
+    "sodiumMg": 11,
+    "satFat": 50.489,
+    "sugars": 0.06
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 14.2,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 14.2,
+    "tspG": null,
+    "cupG": 227,
+    "densityGPerMl": 0.959
+   }
+  },
+  {
+   "key": "nata_cocinar",
+   "fdcId": 170857,
+   "name": "Nata ligera para cocinar",
+   "aliases": [
+    "nata para cocinar",
+    "crema de leche ligera"
+   ],
+   "usdaDescription": "Cream, fluid, light (coffee cream or table cream)",
+   "category": "huevos_lacteos",
+   "group": "dairy_liquid",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 2.96,
+    "fat": 19.1,
+    "carbs": 3.66,
+    "kcal": 195,
+    "fiber": 0,
+    "sodiumMg": 72,
+    "satFat": 10.176,
+    "sugars": 3.67
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 15,
+    "tspG": null,
+    "cupG": 240,
+    "densityGPerMl": 1.014
+   }
+  },
+  {
+   "key": "nata_montar",
+   "fdcId": 170859,
+   "name": "Nata para montar",
+   "aliases": [
+    "nata",
+    "nata para montar"
+   ],
+   "usdaDescription": "Cream, fluid, heavy whipping",
+   "category": "huevos_lacteos",
+   "group": "dairy_liquid",
+   "state": "prepared",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 2.84,
+    "fat": 36.08,
+    "carbs": 2.84,
+    "kcal": 340,
+    "fiber": 0,
+    "sodiumMg": 27,
+    "satFat": 23.032,
+    "sugars": 2.92
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 15,
+    "tspG": null,
+    "cupG": 120,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "proteina_whey",
+   "fdcId": 173177,
+   "name": "Proteína de suero (whey) aislada en polvo",
+   "aliases": [
+    "whey",
+    "proteína en polvo",
+    "batido de proteínas"
+   ],
+   "usdaDescription": "Beverages, Whey protein powder isolate",
+   "category": "despensa",
+   "group": "protein_powder",
+   "state": "dry",
+   "allergens": [
+    "leche"
+   ],
+   "mayContain": [
+    "soja"
+   ],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 58.14,
+    "fat": 1.16,
+    "carbs": 29.07,
+    "kcal": 359,
+    "fiber": 0,
+    "sodiumMg": 372,
+    "satFat": 0.581,
+    "sugars": 1.16
+   },
+   "portions": {
+    "unit": {
+     "name": "cacito",
+     "grams": 28.67,
+     "usda": "3 scoop"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tofu_firme",
+   "fdcId": 172475,
+   "name": "Tofu firme",
+   "aliases": [
+    "tofu"
+   ],
+   "usdaDescription": "Tofu, raw, firm, prepared with calcium sulfate",
+   "category": "cereales_legumbres",
+   "group": "protein_veg",
+   "state": "prepared",
+   "allergens": [
+    "soja"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 17.27,
+    "fat": 8.72,
+    "carbs": 2.78,
+    "kcal": 144,
+    "fiber": 2.3,
+    "sodiumMg": 14,
+    "satFat": 1.261,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 252,
+    "densityGPerMl": 1.065
+   }
+  },
+  {
+   "key": "tempeh",
+   "fdcId": 174272,
+   "name": "Tempeh",
+   "aliases": [
+    "tempeh"
+   ],
+   "usdaDescription": "Tempeh",
+   "category": "cereales_legumbres",
+   "group": "protein_veg",
+   "state": "prepared",
+   "allergens": [
+    "soja"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 20.29,
+    "fat": 10.8,
+    "carbs": 7.64,
+    "kcal": 192,
+    "fiber": null,
+    "sodiumMg": 9,
+    "satFat": 2.539,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 166,
+    "densityGPerMl": 0.702
+   }
+  },
+  {
+   "key": "edamame",
+   "fdcId": 168411,
+   "name": "Edamame (preparado)",
+   "aliases": [
+    "edamame"
+   ],
+   "usdaDescription": "Edamame, frozen, prepared",
+   "category": "cereales_legumbres",
+   "group": "protein_veg",
+   "state": "cooked",
+   "allergens": [
+    "soja"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 11.91,
+    "fat": 5.2,
+    "carbs": 8.91,
+    "kcal": 121,
+    "fiber": 5.2,
+    "sodiumMg": 6,
+    "satFat": 0.62,
+    "sugars": 2.18
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 155,
+    "densityGPerMl": 0.655
+   }
+  },
+  {
+   "key": "lentejas_secas",
+   "fdcId": 172420,
+   "name": "Lentejas (en seco)",
+   "aliases": [
+    "lentejas secas"
+   ],
+   "usdaDescription": "Lentils, raw",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 24.63,
+    "fat": 1.06,
+    "carbs": 63.35,
+    "kcal": 352,
+    "fiber": 10.7,
+    "sodiumMg": 6,
+    "satFat": 0.154,
+    "sugars": 2.03
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 12,
+    "tspG": null,
+    "cupG": 192,
+    "densityGPerMl": 0.812
+   }
+  },
+  {
+   "key": "lentejas_cocidas",
+   "fdcId": 172421,
+   "name": "Lentejas cocidas",
+   "aliases": [
+    "lentejas",
+    "lentejas cocidas"
+   ],
+   "usdaDescription": "Lentils, mature seeds, cooked, boiled, without salt",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 9.02,
+    "fat": 0.38,
+    "carbs": 20.13,
+    "kcal": 116,
+    "fiber": 7.9,
+    "sodiumMg": 2,
+    "satFat": 0.053,
+    "sugars": 1.8
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 12.3,
+    "tspG": null,
+    "cupG": 198,
+    "densityGPerMl": 0.837
+   }
+  },
+  {
+   "key": "garbanzos_secos",
+   "fdcId": 173756,
+   "name": "Garbanzos (en seco)",
+   "aliases": [
+    "garbanzos secos"
+   ],
+   "usdaDescription": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 20.47,
+    "fat": 6.04,
+    "carbs": 62.95,
+    "kcal": 378,
+    "fiber": 12.2,
+    "sodiumMg": 24,
+    "satFat": 0.603,
+    "sugars": 10.7
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 12.5,
+    "tspG": null,
+    "cupG": 200,
+    "densityGPerMl": 0.845
+   }
+  },
+  {
+   "key": "garbanzos_cocidos",
+   "fdcId": 173757,
+   "name": "Garbanzos cocidos",
+   "aliases": [
+    "garbanzos"
+   ],
+   "usdaDescription": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 8.86,
+    "fat": 2.59,
+    "carbs": 27.42,
+    "kcal": 164,
+    "fiber": 7.6,
+    "sodiumMg": 7,
+    "satFat": 0.269,
+    "sugars": 4.8
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 164,
+    "densityGPerMl": 0.693
+   }
+  },
+  {
+   "key": "garbanzos_bote",
+   "fdcId": 173801,
+   "name": "Garbanzos de bote, escurridos y enjuagados",
+   "aliases": [
+    "garbanzos de bote",
+    "garbanzos en conserva"
+   ],
+   "usdaDescription": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 7.04,
+    "fat": 2.47,
+    "carbs": 22.87,
+    "kcal": 138,
+    "fiber": 6.3,
+    "sodiumMg": 212,
+    "satFat": 0.213,
+    "sugars": 4
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 152,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "alubias_negras_cocidas",
+   "fdcId": 173735,
+   "name": "Alubias negras cocidas",
+   "aliases": [
+    "frijoles negros",
+    "alubias negras"
+   ],
+   "usdaDescription": "Beans, black, mature seeds, cooked, boiled, without salt",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 8.86,
+    "fat": 0.54,
+    "carbs": 23.71,
+    "kcal": 132,
+    "fiber": 8.7,
+    "sodiumMg": 1,
+    "satFat": 0.139,
+    "sugars": 0.32
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 172,
+    "densityGPerMl": 0.727
+   }
+  },
+  {
+   "key": "alubias_rojas_cocidas",
+   "fdcId": 175194,
+   "name": "Alubias rojas cocidas",
+   "aliases": [
+    "alubias",
+    "judías rojas",
+    "frijoles"
+   ],
+   "usdaDescription": "Beans, kidney, red, mature seeds, cooked, boiled, without salt",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 8.67,
+    "fat": 0.5,
+    "carbs": 22.8,
+    "kcal": 127,
+    "fiber": 7.4,
+    "sodiumMg": 2,
+    "satFat": 0.072,
+    "sugars": 0.32
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 11,
+    "tspG": null,
+    "cupG": 177,
+    "densityGPerMl": 0.748
+   }
+  },
+  {
+   "key": "alubias_rojas_bote",
+   "fdcId": 174285,
+   "name": "Alubias rojas de bote, escurridas",
+   "aliases": [
+    "alubias de bote"
+   ],
+   "usdaDescription": "Beans, kidney, red, mature seeds, canned, drained solids",
+   "category": "cereales_legumbres",
+   "group": "legume",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 7.98,
+    "fat": 1.05,
+    "carbs": 21.49,
+    "kcal": 124,
+    "fiber": 5.5,
+    "sodiumMg": 231,
+    "satFat": 0.181,
+    "sugars": 3.8
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "hummus",
+   "fdcId": 174289,
+   "name": "Hummus comercial",
+   "aliases": [
+    "hummus"
+   ],
+   "usdaDescription": "Hummus, commercial",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [
+    "sesamo"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 7.78,
+    "fat": 17.82,
+    "carbs": 15,
+    "kcal": 237,
+    "fiber": 5.5,
+    "sodiumMg": 426,
+    "satFat": 2.562,
+    "sugars": 0.62
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 15,
+    "tspG": null,
+    "cupG": 246,
+    "densityGPerMl": 1.04
+   }
+  },
+  {
+   "key": "arroz_blanco_crudo",
+   "fdcId": 168877,
+   "name": "Arroz blanco largo (en crudo)",
+   "aliases": [
+    "arroz",
+    "arroz blanco",
+    "arroz largo"
+   ],
+   "usdaDescription": "Rice, white, long-grain, regular, raw, enriched",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 7.13,
+    "fat": 0.66,
+    "carbs": 79.95,
+    "kcal": 365,
+    "fiber": 1.3,
+    "sodiumMg": 5,
+    "satFat": 0.18,
+    "sugars": 0.12
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 185,
+    "densityGPerMl": 0.782
+   }
+  },
+  {
+   "key": "arroz_blanco_cocido",
+   "fdcId": 169757,
+   "name": "Arroz blanco largo cocido (sin sal)",
+   "aliases": [
+    "arroz cocido",
+    "arroz hervido"
+   ],
+   "usdaDescription": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.69,
+    "fat": 0.28,
+    "carbs": 28.17,
+    "kcal": 130,
+    "fiber": 0.4,
+    "sodiumMg": 1,
+    "satFat": 0.077,
+    "sugars": 0.05
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 158,
+    "densityGPerMl": 0.668
+   }
+  },
+  {
+   "key": "arroz_redondo_crudo",
+   "fdcId": 168931,
+   "name": "Arroz redondo (en crudo)",
+   "aliases": [
+    "arroz redondo",
+    "arroz bomba",
+    "arroz para paella"
+   ],
+   "usdaDescription": "Rice, white, short-grain, raw, unenriched",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 6.5,
+    "fat": 0.52,
+    "carbs": 79.15,
+    "kcal": 358,
+    "fiber": null,
+    "sodiumMg": 1,
+    "satFat": 0.14,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 200,
+    "densityGPerMl": 0.845
+   }
+  },
+  {
+   "key": "arroz_integral_crudo",
+   "fdcId": 169703,
+   "name": "Arroz integral (en crudo)",
+   "aliases": [
+    "arroz integral"
+   ],
+   "usdaDescription": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 7.54,
+    "fat": 3.2,
+    "carbs": 76.25,
+    "kcal": 367,
+    "fiber": 3.6,
+    "sodiumMg": 5,
+    "satFat": 0.591,
+    "sugars": 0.66
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 185,
+    "densityGPerMl": 0.782
+   }
+  },
+  {
+   "key": "arroz_integral_cocido",
+   "fdcId": 169704,
+   "name": "Arroz integral cocido",
+   "aliases": [
+    "arroz integral cocido"
+   ],
+   "usdaDescription": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.74,
+    "fat": 0.97,
+    "carbs": 25.58,
+    "kcal": 123,
+    "fiber": 1.6,
+    "sodiumMg": 4,
+    "satFat": 0.26,
+    "sugars": 0.24
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 202,
+    "densityGPerMl": 0.854
+   }
+  },
+  {
+   "key": "pasta_seca",
+   "fdcId": 169736,
+   "name": "Pasta de trigo (en seco)",
+   "aliases": [
+    "pasta",
+    "espaguetis",
+    "spaghetti",
+    "macarrones",
+    "penne",
+    "tallarines",
+    "fideos"
+   ],
+   "usdaDescription": "Pasta, dry, enriched",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "huevo"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 13.04,
+    "fat": 1.51,
+    "carbs": 74.67,
+    "kcal": 371,
+    "fiber": 3.2,
+    "sodiumMg": 6,
+    "satFat": 0.277,
+    "sugars": 2.67
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 91,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pasta_cocida",
+   "fdcId": 169737,
+   "name": "Pasta de trigo cocida (sin sal)",
+   "aliases": [
+    "pasta cocida"
+   ],
+   "usdaDescription": "Pasta, cooked, enriched, without added salt",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "cooked",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "huevo"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 5.8,
+    "fat": 0.93,
+    "carbs": 30.86,
+    "kcal": 158,
+    "fiber": 1.8,
+    "sodiumMg": 1,
+    "satFat": 0.176,
+    "sugars": 0.56
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 124,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pasta_integral_seca",
+   "fdcId": 169738,
+   "name": "Pasta integral (en seco)",
+   "aliases": [
+    "pasta integral"
+   ],
+   "usdaDescription": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "huevo"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 13.87,
+    "fat": 2.93,
+    "carbs": 73.37,
+    "kcal": 352,
+    "fiber": 9.2,
+    "sodiumMg": 6,
+    "satFat": 0.428,
+    "sugars": 2.74
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 91,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pasta_huevo_seca",
+   "fdcId": 169731,
+   "name": "Pasta al huevo (en seco)",
+   "aliases": [
+    "pasta al huevo",
+    "tallarines al huevo"
+   ],
+   "usdaDescription": "Noodles, egg, dry, enriched",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [
+    "gluten",
+    "huevo"
+   ],
+   "mayContain": [],
+   "animal": "egg",
+   "per100g": {
+    "protein": 14.16,
+    "fat": 4.44,
+    "carbs": 71.27,
+    "kcal": 384,
+    "fiber": 3.3,
+    "sodiumMg": 21,
+    "satFat": 1.18,
+    "sugars": 1.88
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 38,
+    "densityGPerMl": 0.161
+   }
+  },
+  {
+   "key": "cuscus_seco",
+   "fdcId": 169699,
+   "name": "Cuscús (en seco)",
+   "aliases": [
+    "cuscús",
+    "cuscus"
+   ],
+   "usdaDescription": "Couscous, dry",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 12.76,
+    "fat": 0.64,
+    "carbs": 77.43,
+    "kcal": 376,
+    "fiber": 5,
+    "sodiumMg": 10,
+    "satFat": 0.117,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 173,
+    "densityGPerMl": 0.731
+   }
+  },
+  {
+   "key": "quinoa_cruda",
+   "fdcId": 168874,
+   "name": "Quinoa (en crudo)",
+   "aliases": [
+    "quinoa",
+    "quinua"
+   ],
+   "usdaDescription": "Quinoa, uncooked",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 14.12,
+    "fat": 6.07,
+    "carbs": 64.16,
+    "kcal": 368,
+    "fiber": 7,
+    "sodiumMg": 5,
+    "satFat": 0.706,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 170,
+    "densityGPerMl": 0.719
+   }
+  },
+  {
+   "key": "quinoa_cocida",
+   "fdcId": 168917,
+   "name": "Quinoa cocida",
+   "aliases": [
+    "quinoa cocida"
+   ],
+   "usdaDescription": "Quinoa, cooked",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 4.4,
+    "fat": 1.92,
+    "carbs": 21.3,
+    "kcal": 120,
+    "fiber": 2.8,
+    "sodiumMg": 7,
+    "satFat": 0.231,
+    "sugars": 0.87
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 185,
+    "densityGPerMl": 0.782
+   }
+  },
+  {
+   "key": "avena",
+   "fdcId": 169705,
+   "name": "Copos de avena",
+   "aliases": [
+    "avena",
+    "copos de avena"
+   ],
+   "usdaDescription": "Oats (Includes foods for USDA's Food Distribution Program)",
+   "category": "cereales_legumbres",
+   "group": "carb_grain",
+   "state": "dry",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 16.89,
+    "fat": 6.9,
+    "carbs": 66.27,
+    "kcal": 389,
+    "fiber": 10.6,
+    "sodiumMg": 2,
+    "satFat": 1.217,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 156,
+    "densityGPerMl": 0.659
+   }
+  },
+  {
+   "key": "harina_trigo",
+   "fdcId": 168894,
+   "name": "Harina de trigo",
+   "aliases": [
+    "harina"
+   ],
+   "usdaDescription": "Wheat flour, white, all-purpose, enriched, bleached",
+   "category": "despensa",
+   "group": "flour",
+   "state": "dry",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 10.33,
+    "fat": 0.98,
+    "carbs": 76.31,
+    "kcal": 364,
+    "fiber": 2.7,
+    "sodiumMg": 2,
+    "satFat": 0.155,
+    "sugars": 0.27
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 125,
+    "densityGPerMl": 0.528
+   }
+  },
+  {
+   "key": "patata_cruda",
+   "fdcId": 170026,
+   "name": "Patata con piel (cruda)",
+   "aliases": [
+    "patata",
+    "patatas",
+    "papa",
+    "papas"
+   ],
+   "usdaDescription": "Potatoes, flesh and skin, raw",
+   "category": "frutas_verduras",
+   "group": "carb_tuber",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.05,
+    "fat": 0.09,
+    "carbs": 17.49,
+    "kcal": 77,
+    "fiber": 2.1,
+    "sodiumMg": 6,
+    "satFat": 0.025,
+    "sugars": 0.82
+   },
+   "portions": {
+    "unit": {
+     "name": "patata mediana",
+     "grams": 213,
+     "usda": "1 Potato medium (2-1/4\" to 3-1/4\" dia)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 150,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "patata_cocida",
+   "fdcId": 170440,
+   "name": "Patata cocida sin piel",
+   "aliases": [
+    "patata cocida"
+   ],
+   "usdaDescription": "Potatoes, boiled, cooked without skin, flesh, without salt",
+   "category": "frutas_verduras",
+   "group": "carb_tuber",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.71,
+    "fat": 0.1,
+    "carbs": 20.01,
+    "kcal": 86,
+    "fiber": 1.8,
+    "sodiumMg": 5,
+    "satFat": 0.026,
+    "sugars": 0.89
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 156,
+    "densityGPerMl": 0.659
+   }
+  },
+  {
+   "key": "boniato_crudo",
+   "fdcId": 168482,
+   "name": "Boniato (crudo)",
+   "aliases": [
+    "boniato",
+    "batata",
+    "camote"
+   ],
+   "usdaDescription": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+   "category": "frutas_verduras",
+   "group": "carb_tuber",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.57,
+    "fat": 0.05,
+    "carbs": 20.12,
+    "kcal": 86,
+    "fiber": 3,
+    "sodiumMg": 55,
+    "satFat": 0.018,
+    "sugars": 4.18
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 133,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pan_blanco",
+   "fdcId": 172675,
+   "name": "Pan blanco tipo barra",
+   "aliases": [
+    "pan",
+    "barra de pan",
+    "baguette"
+   ],
+   "usdaDescription": "Bread, french or vienna (includes sourdough)",
+   "category": "panaderia",
+   "group": "bakery",
+   "state": "prepared",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "sesamo",
+    "soja",
+    "leche"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 10.75,
+    "fat": 2.42,
+    "carbs": 51.88,
+    "kcal": 272,
+    "fiber": 2.2,
+    "sodiumMg": 602,
+    "satFat": 0.529,
+    "sugars": 4.62
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pan_molde_integral",
+   "fdcId": 172688,
+   "name": "Pan de molde integral",
+   "aliases": [
+    "pan integral",
+    "pan de molde"
+   ],
+   "usdaDescription": "Bread, whole-wheat, commercially prepared",
+   "category": "panaderia",
+   "group": "bakery",
+   "state": "prepared",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "sesamo",
+    "soja",
+    "leche"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 12.45,
+    "fat": 3.5,
+    "carbs": 42.71,
+    "kcal": 252,
+    "fiber": 6,
+    "sodiumMg": 455,
+    "satFat": 0.722,
+    "sugars": 4.34
+   },
+   "portions": {
+    "unit": {
+     "name": "rebanada",
+     "grams": 32,
+     "usda": "1 slice"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pan_multicereal",
+   "fdcId": 168013,
+   "name": "Pan multicereal",
+   "aliases": [
+    "pan de semillas",
+    "pan multicereales"
+   ],
+   "usdaDescription": "Bread, multi-grain (includes whole-grain)",
+   "category": "panaderia",
+   "group": "bakery",
+   "state": "prepared",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "sesamo",
+    "soja",
+    "leche",
+    "frutos_cascara"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 13.36,
+    "fat": 4.23,
+    "carbs": 43.34,
+    "kcal": 265,
+    "fiber": 7.4,
+    "sodiumMg": 381,
+    "satFat": 0.872,
+    "sugars": 6.39
+   },
+   "portions": {
+    "unit": {
+     "name": "rebanada",
+     "grams": 26,
+     "usda": "1 slice regular"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pan_pita",
+   "fdcId": 174915,
+   "name": "Pan de pita",
+   "aliases": [
+    "pita"
+   ],
+   "usdaDescription": "Bread, pita, white, enriched",
+   "category": "panaderia",
+   "group": "bakery",
+   "state": "prepared",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "sesamo",
+    "soja",
+    "leche"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 9.1,
+    "fat": 1.2,
+    "carbs": 55.7,
+    "kcal": 275,
+    "fiber": 2.2,
+    "sodiumMg": 536,
+    "satFat": 0.166,
+    "sugars": 1.3
+   },
+   "portions": {
+    "unit": {
+     "name": "pita grande",
+     "grams": 60,
+     "usda": "1 pita, large (6-1/2\" dia)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tortilla_trigo",
+   "fdcId": 175037,
+   "name": "Tortilla de trigo",
+   "aliases": [
+    "tortilla de trigo",
+    "wrap",
+    "fajita"
+   ],
+   "usdaDescription": "Tortillas, ready-to-bake or -fry, flour, refrigerated",
+   "category": "panaderia",
+   "group": "bakery",
+   "state": "prepared",
+   "allergens": [
+    "gluten"
+   ],
+   "mayContain": [
+    "soja",
+    "leche"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 8.2,
+    "fat": 7.99,
+    "carbs": 49.38,
+    "kcal": 306,
+    "fiber": 3.5,
+    "sodiumMg": 736,
+    "satFat": 2.924,
+    "sugars": 3.71
+   },
+   "portions": {
+    "unit": {
+     "name": "tortilla mediana",
+     "grams": 30,
+     "usda": "1 tortilla medium (approx 6\" dia)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tortilla_maiz",
+   "fdcId": 175036,
+   "name": "Tortilla de maíz",
+   "aliases": [
+    "tortilla de maíz",
+    "taco"
+   ],
+   "usdaDescription": "Tortillas, ready-to-bake or -fry, corn",
+   "category": "panaderia",
+   "group": "bakery",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 5.7,
+    "fat": 2.85,
+    "carbs": 44.64,
+    "kcal": 218,
+    "fiber": 6.3,
+    "sodiumMg": 45,
+    "satFat": 0.453,
+    "sugars": 0.88
+   },
+   "portions": {
+    "unit": {
+     "name": "tortilla",
+     "grams": 24,
+     "usda": "1 tortilla"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tortitas_arroz",
+   "fdcId": 170250,
+   "name": "Tortitas de arroz integral",
+   "aliases": [
+    "tortitas de arroz"
+   ],
+   "usdaDescription": "Snacks, rice cakes, brown rice, plain, unsalted",
+   "category": "panaderia",
+   "group": "bakery",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "sesamo"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 8.2,
+    "fat": 2.8,
+    "carbs": 81.5,
+    "kcal": 387,
+    "fiber": 4.2,
+    "sodiumMg": 26,
+    "satFat": 0.57,
+    "sugars": 0.88
+   },
+   "portions": {
+    "unit": {
+     "name": "tortita",
+     "grams": 9,
+     "usda": "1 cake"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "levadura_seca",
+   "fdcId": 175043,
+   "name": "Levadura de panadería seca",
+   "aliases": [
+    "levadura"
+   ],
+   "usdaDescription": "Leavening agents, yeast, baker's, active dry",
+   "category": "despensa",
+   "group": "other",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 40.44,
+    "fat": 7.61,
+    "carbs": 41.22,
+    "kcal": 325,
+    "fiber": 26.9,
+    "sodiumMg": 51,
+    "satFat": 1.001,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 12,
+    "tspG": 4,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "levadura_quimica",
+   "fdcId": 172803,
+   "name": "Levadura química (polvo de hornear)",
+   "aliases": [
+    "levadura química",
+    "polvo de hornear"
+   ],
+   "usdaDescription": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate",
+   "category": "despensa",
+   "group": "other",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [
+    "gluten"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 0,
+    "fat": 0,
+    "carbs": 27.7,
+    "kcal": 53,
+    "fiber": 0.2,
+    "sodiumMg": 10600,
+    "satFat": 0,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 4.6,
+     "usda": "1 tsp"
+    },
+    "tbspG": null,
+    "tspG": 4.6,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tomate",
+   "fdcId": 170457,
+   "name": "Tomate (crudo)",
+   "aliases": [
+    "tomate",
+    "tomates"
+   ],
+   "usdaDescription": "Tomatoes, red, ripe, raw, year round average",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.88,
+    "fat": 0.2,
+    "carbs": 3.89,
+    "kcal": 18,
+    "fiber": 1.2,
+    "sodiumMg": 5,
+    "satFat": 0.028,
+    "sugars": 2.63
+   },
+   "portions": {
+    "unit": {
+     "name": "tomate mediano",
+     "grams": 123,
+     "usda": "1 medium whole (2-3/5\" dia)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 149,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tomate_triturado",
+   "fdcId": 170051,
+   "name": "Tomate en conserva (en su jugo)",
+   "aliases": [
+    "tomate triturado",
+    "tomate en lata",
+    "tomate troceado"
+   ],
+   "usdaDescription": "Tomatoes, red, ripe, canned, packed in tomato juice",
+   "category": "despensa",
+   "group": "sauce",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.79,
+    "fat": 0.25,
+    "carbs": 3.47,
+    "kcal": 16,
+    "fiber": 1.9,
+    "sodiumMg": 115,
+    "satFat": 0.034,
+    "sugars": 2.55
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 15,
+    "tspG": null,
+    "cupG": 240,
+    "densityGPerMl": 1.014
+   }
+  },
+  {
+   "key": "tomate_frito_salsa",
+   "fdcId": 170054,
+   "name": "Salsa de tomate en conserva",
+   "aliases": [
+    "salsa de tomate",
+    "tomate frito"
+   ],
+   "usdaDescription": "Tomato products, canned, sauce",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [
+    "apio"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 1.2,
+    "fat": 0.3,
+    "carbs": 5.31,
+    "kcal": 24,
+    "fiber": 1.5,
+    "sodiumMg": 474,
+    "satFat": 0.041,
+    "sugars": 3.56
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 245,
+    "densityGPerMl": 1.036
+   }
+  },
+  {
+   "key": "concentrado_tomate",
+   "fdcId": 170459,
+   "name": "Concentrado de tomate",
+   "aliases": [
+    "tomate concentrado",
+    "pasta de tomate"
+   ],
+   "usdaDescription": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",
+   "category": "despensa",
+   "group": "sauce",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 4.32,
+    "fat": 0.47,
+    "carbs": 18.91,
+    "kcal": 82,
+    "fiber": 4.1,
+    "sodiumMg": 59,
+    "satFat": 0.1,
+    "sugars": 12.18
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 16,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 16,
+    "tspG": null,
+    "cupG": 264,
+    "densityGPerMl": 1.116
+   }
+  },
+  {
+   "key": "cebolla",
+   "fdcId": 170000,
+   "name": "Cebolla (cruda)",
+   "aliases": [
+    "cebolla",
+    "cebollas"
+   ],
+   "usdaDescription": "Onions, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.1,
+    "fat": 0.1,
+    "carbs": 9.34,
+    "kcal": 40,
+    "fiber": 1.7,
+    "sodiumMg": 4,
+    "satFat": 0.042,
+    "sugars": 4.24
+   },
+   "portions": {
+    "unit": {
+     "name": "cebolla mediana",
+     "grams": 110,
+     "usda": "1 medium (2-1/2\" dia)"
+    },
+    "tbspG": 10,
+    "tspG": null,
+    "cupG": 160,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "ajo",
+   "fdcId": 169230,
+   "name": "Ajo (crudo)",
+   "aliases": [
+    "ajo",
+    "ajos",
+    "diente de ajo"
+   ],
+   "usdaDescription": "Garlic, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 6.36,
+    "fat": 0.5,
+    "carbs": 33.06,
+    "kcal": 149,
+    "fiber": 2.1,
+    "sodiumMg": 17,
+    "satFat": 0.089,
+    "sugars": 1
+   },
+   "portions": {
+    "unit": {
+     "name": "diente",
+     "grams": 3,
+     "usda": "1 clove"
+    },
+    "tbspG": null,
+    "tspG": 2.8,
+    "cupG": 136,
+    "densityGPerMl": 0.575
+   }
+  },
+  {
+   "key": "pimiento_rojo",
+   "fdcId": 170108,
+   "name": "Pimiento rojo (crudo)",
+   "aliases": [
+    "pimiento rojo",
+    "pimiento"
+   ],
+   "usdaDescription": "Peppers, sweet, red, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.99,
+    "fat": 0.3,
+    "carbs": 6.03,
+    "kcal": 26,
+    "fiber": 2.1,
+    "sodiumMg": 4,
+    "satFat": 0.059,
+    "sugars": 4.2
+   },
+   "portions": {
+    "unit": {
+     "name": "pimiento mediano",
+     "grams": 119,
+     "usda": "1 medium (approx 2-3/4\" long, 2-1/2 dia.)"
+    },
+    "tbspG": 9.3,
+    "tspG": null,
+    "cupG": 149,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pimiento_verde",
+   "fdcId": 170427,
+   "name": "Pimiento verde (crudo)",
+   "aliases": [
+    "pimiento verde"
+   ],
+   "usdaDescription": "Peppers, sweet, green, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.86,
+    "fat": 0.17,
+    "carbs": 4.64,
+    "kcal": 20,
+    "fiber": 1.7,
+    "sodiumMg": 3,
+    "satFat": 0.058,
+    "sugars": 2.4
+   },
+   "portions": {
+    "unit": {
+     "name": "pimiento mediano",
+     "grams": 119,
+     "usda": "1 medium (approx 2-3/4\" long, 2-1/2\" dia)"
+    },
+    "tbspG": 9.3,
+    "tspG": null,
+    "cupG": 149,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "zanahoria",
+   "fdcId": 170393,
+   "name": "Zanahoria (cruda)",
+   "aliases": [
+    "zanahoria",
+    "zanahorias"
+   ],
+   "usdaDescription": "Carrots, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.93,
+    "fat": 0.24,
+    "carbs": 9.58,
+    "kcal": 41,
+    "fiber": 2.8,
+    "sodiumMg": 69,
+    "satFat": 0.032,
+    "sugars": 4.74
+   },
+   "portions": {
+    "unit": {
+     "name": "zanahoria mediana",
+     "grams": 61,
+     "usda": "1 medium"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 128,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "brocoli",
+   "fdcId": 170379,
+   "name": "Brócoli (crudo)",
+   "aliases": [
+    "brócoli",
+    "brocoli"
+   ],
+   "usdaDescription": "Broccoli, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.82,
+    "fat": 0.37,
+    "carbs": 6.64,
+    "kcal": 34,
+    "fiber": 2.6,
+    "sodiumMg": 33,
+    "satFat": 0.114,
+    "sugars": 1.7
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 91,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "espinacas",
+   "fdcId": 168462,
+   "name": "Espinacas (crudas)",
+   "aliases": [
+    "espinacas",
+    "espinaca"
+   ],
+   "usdaDescription": "Spinach, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.86,
+    "fat": 0.39,
+    "carbs": 3.63,
+    "kcal": 23,
+    "fiber": 2.2,
+    "sodiumMg": 79,
+    "satFat": 0.063,
+    "sugars": 0.42
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 30,
+    "densityGPerMl": 0.127
+   }
+  },
+  {
+   "key": "lechuga_romana",
+   "fdcId": 169247,
+   "name": "Lechuga romana",
+   "aliases": [
+    "lechuga",
+    "lechuga romana"
+   ],
+   "usdaDescription": "Lettuce, cos or romaine, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.23,
+    "fat": 0.3,
+    "carbs": 3.29,
+    "kcal": 17,
+    "fiber": 2.1,
+    "sodiumMg": 8,
+    "satFat": 0.039,
+    "sugars": 1.19
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 47,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "lechuga_iceberg",
+   "fdcId": 169248,
+   "name": "Lechuga iceberg",
+   "aliases": [
+    "iceberg"
+   ],
+   "usdaDescription": "Lettuce, iceberg (includes crisphead types), raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.9,
+    "fat": 0.14,
+    "carbs": 2.97,
+    "kcal": 14,
+    "fiber": 1.2,
+    "sodiumMg": 10,
+    "satFat": 0.018,
+    "sugars": 1.97
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 72,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pepino",
+   "fdcId": 168409,
+   "name": "Pepino con piel",
+   "aliases": [
+    "pepino"
+   ],
+   "usdaDescription": "Cucumber, with peel, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.65,
+    "fat": 0.11,
+    "carbs": 3.63,
+    "kcal": 15,
+    "fiber": 0.5,
+    "sodiumMg": 2,
+    "satFat": 0.037,
+    "sugars": 1.67
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 104,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "calabacin",
+   "fdcId": 169291,
+   "name": "Calabacín (crudo)",
+   "aliases": [
+    "calabacín",
+    "calabacin"
+   ],
+   "usdaDescription": "Squash, summer, zucchini, includes skin, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.21,
+    "fat": 0.32,
+    "carbs": 3.11,
+    "kcal": 17,
+    "fiber": 1,
+    "sodiumMg": 8,
+    "satFat": 0.084,
+    "sugars": 2.5
+   },
+   "portions": {
+    "unit": {
+     "name": "calabacín mediano",
+     "grams": 196,
+     "usda": "1 medium"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 124,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "champinones",
+   "fdcId": 169251,
+   "name": "Champiñones (crudos)",
+   "aliases": [
+    "champiñones",
+    "setas",
+    "champiñón"
+   ],
+   "usdaDescription": "Mushrooms, white, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 3.09,
+    "fat": 0.34,
+    "carbs": 3.26,
+    "kcal": 22,
+    "fiber": 1,
+    "sodiumMg": 5,
+    "satFat": 0.05,
+    "sugars": 1.98
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 70,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "berenjena",
+   "fdcId": 169228,
+   "name": "Berenjena (cruda)",
+   "aliases": [
+    "berenjena"
+   ],
+   "usdaDescription": "Eggplant, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.98,
+    "fat": 0.18,
+    "carbs": 5.88,
+    "kcal": 25,
+    "fiber": 3,
+    "sodiumMg": 2,
+    "satFat": 0.034,
+    "sugars": 3.53
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 82,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "maiz_lata",
+   "fdcId": 169214,
+   "name": "Maíz dulce en conserva, escurrido",
+   "aliases": [
+    "maíz",
+    "maiz"
+   ],
+   "usdaDescription": "Corn, sweet, yellow, canned, whole kernel, drained solids",
+   "category": "despensa",
+   "group": "vegetable",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.29,
+    "fat": 1.22,
+    "carbs": 14.34,
+    "kcal": 67,
+    "fiber": 2,
+    "sodiumMg": 205,
+    "satFat": 0.245,
+    "sugars": 4.44
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 164,
+    "densityGPerMl": 0.693
+   }
+  },
+  {
+   "key": "guisantes_congelados",
+   "fdcId": 170017,
+   "name": "Guisantes congelados, hervidos",
+   "aliases": [
+    "guisantes",
+    "arvejas"
+   ],
+   "usdaDescription": "Peas, green, frozen, cooked, boiled, drained, without salt",
+   "category": "congelados",
+   "group": "vegetable",
+   "state": "cooked",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 5.15,
+    "fat": 0.27,
+    "carbs": 14.26,
+    "kcal": 78,
+    "fiber": 4.5,
+    "sodiumMg": 72,
+    "satFat": 0.049,
+    "sugars": 4.4
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 160,
+    "densityGPerMl": 0.676
+   }
+  },
+  {
+   "key": "judias_verdes",
+   "fdcId": 169961,
+   "name": "Judías verdes (crudas)",
+   "aliases": [
+    "judías verdes",
+    "judias verdes",
+    "ejotes"
+   ],
+   "usdaDescription": "Beans, snap, green, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.83,
+    "fat": 0.22,
+    "carbs": 6.97,
+    "kcal": 31,
+    "fiber": 2.7,
+    "sodiumMg": 6,
+    "satFat": 0.05,
+    "sugars": 3.26
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 100,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "coliflor",
+   "fdcId": 169986,
+   "name": "Coliflor (cruda)",
+   "aliases": [
+    "coliflor"
+   ],
+   "usdaDescription": "Cauliflower, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.92,
+    "fat": 0.28,
+    "carbs": 4.97,
+    "kcal": 25,
+    "fiber": 2,
+    "sodiumMg": 30,
+    "satFat": 0.13,
+    "sugars": 1.91
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 107,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "aguacate",
+   "fdcId": 171705,
+   "name": "Aguacate",
+   "aliases": [
+    "aguacate",
+    "palta"
+   ],
+   "usdaDescription": "Avocados, raw, all commercial varieties",
+   "category": "frutas_verduras",
+   "group": "fat_fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2,
+    "fat": 14.66,
+    "carbs": 8.53,
+    "kcal": 160,
+    "fiber": 6.7,
+    "sodiumMg": 7,
+    "satFat": 2.126,
+    "sugars": 0.66
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 150,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "repollo",
+   "fdcId": 169975,
+   "name": "Repollo / col (crudo)",
+   "aliases": [
+    "repollo",
+    "col"
+   ],
+   "usdaDescription": "Cabbage, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.28,
+    "fat": 0.1,
+    "carbs": 5.8,
+    "kcal": 25,
+    "fiber": 2.5,
+    "sodiumMg": 18,
+    "satFat": 0.034,
+    "sugars": 3.2
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 89,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "apio",
+   "fdcId": 169988,
+   "name": "Apio (crudo)",
+   "aliases": [
+    "apio"
+   ],
+   "usdaDescription": "Celery, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [
+    "apio"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.69,
+    "fat": 0.17,
+    "carbs": 2.97,
+    "kcal": 14,
+    "fiber": 1.6,
+    "sodiumMg": 80,
+    "satFat": 0.042,
+    "sugars": 1.34
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 7.5,
+    "tspG": null,
+    "cupG": 101,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "puerro",
+   "fdcId": 169246,
+   "name": "Puerro (crudo)",
+   "aliases": [
+    "puerro"
+   ],
+   "usdaDescription": "Leeks, (bulb and lower leaf-portion), raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.5,
+    "fat": 0.3,
+    "carbs": 14.15,
+    "kcal": 61,
+    "fiber": 1.8,
+    "sodiumMg": 20,
+    "satFat": 0.04,
+    "sugars": 3.9
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 89,
+    "densityGPerMl": 0.376
+   }
+  },
+  {
+   "key": "esparragos",
+   "fdcId": 168389,
+   "name": "Espárragos verdes (crudos)",
+   "aliases": [
+    "espárragos",
+    "esparragos"
+   ],
+   "usdaDescription": "Asparagus, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.2,
+    "fat": 0.12,
+    "carbs": 3.88,
+    "kcal": 20,
+    "fiber": 2.1,
+    "sodiumMg": 2,
+    "satFat": 0.04,
+    "sugars": 1.88
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 134,
+    "densityGPerMl": 0.566
+   }
+  },
+  {
+   "key": "calabaza",
+   "fdcId": 168448,
+   "name": "Calabaza (cruda)",
+   "aliases": [
+    "calabaza"
+   ],
+   "usdaDescription": "Pumpkin, raw",
+   "category": "frutas_verduras",
+   "group": "vegetable",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1,
+    "fat": 0.1,
+    "carbs": 6.5,
+    "kcal": 26,
+    "fiber": 0.5,
+    "sodiumMg": 1,
+    "satFat": 0.052,
+    "sugars": 2.76
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 116,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "jengibre",
+   "fdcId": 169231,
+   "name": "Jengibre fresco",
+   "aliases": [
+    "jengibre"
+   ],
+   "usdaDescription": "Ginger root, raw",
+   "category": "frutas_verduras",
+   "group": "spice",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.82,
+    "fat": 0.75,
+    "carbs": 17.77,
+    "kcal": 80,
+    "fiber": 2,
+    "sodiumMg": 13,
+    "satFat": 0.203,
+    "sugars": 1.7
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": 2,
+    "cupG": 96,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "aceitunas",
+   "fdcId": 169094,
+   "name": "Aceitunas negras en conserva",
+   "aliases": [
+    "aceitunas"
+   ],
+   "usdaDescription": "Olives, ripe, canned (small-extra large)",
+   "category": "despensa",
+   "group": "condiment",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.84,
+    "fat": 10.9,
+    "carbs": 6.04,
+    "kcal": 116,
+    "fiber": 1.6,
+    "sodiumMg": 735,
+    "satFat": 2.279,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "aceituna",
+     "grams": 4.4,
+     "usda": "1 large"
+    },
+    "tbspG": 8.4,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "alcaparras",
+   "fdcId": 172238,
+   "name": "Alcaparras en conserva",
+   "aliases": [
+    "alcaparras"
+   ],
+   "usdaDescription": "Capers, canned",
+   "category": "despensa",
+   "group": "condiment",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [
+    "sulfitos"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 2.36,
+    "fat": 0.86,
+    "carbs": 4.89,
+    "kcal": 23,
+    "fiber": 3.2,
+    "sodiumMg": 2348,
+    "satFat": 0.233,
+    "sugars": 0.41
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 8.6,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pepinillos",
+   "fdcId": 168558,
+   "name": "Pepinillos en vinagre",
+   "aliases": [
+    "pepinillos"
+   ],
+   "usdaDescription": "Pickles, cucumber, dill or kosher dill",
+   "category": "despensa",
+   "group": "condiment",
+   "state": "canned",
+   "allergens": [],
+   "mayContain": [
+    "sulfitos",
+    "mostaza"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 0.5,
+    "fat": 0.3,
+    "carbs": 2.41,
+    "kcal": 12,
+    "fiber": 1,
+    "sodiumMg": 809,
+    "satFat": 0.079,
+    "sugars": 1.07
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 143,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "platano",
+   "fdcId": 173944,
+   "name": "Plátano",
+   "aliases": [
+    "plátano",
+    "platano",
+    "banana"
+   ],
+   "usdaDescription": "Bananas, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.09,
+    "fat": 0.33,
+    "carbs": 22.84,
+    "kcal": 89,
+    "fiber": 2.6,
+    "sodiumMg": 1,
+    "satFat": 0.112,
+    "sugars": 12.23
+   },
+   "portions": {
+    "unit": {
+     "name": "plátano mediano",
+     "grams": 118,
+     "usda": "1 medium (7\" to 7-7/8\" long)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 225,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "manzana",
+   "fdcId": 171688,
+   "name": "Manzana con piel",
+   "aliases": [
+    "manzana"
+   ],
+   "usdaDescription": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.26,
+    "fat": 0.17,
+    "carbs": 13.81,
+    "kcal": 52,
+    "fiber": 2.4,
+    "sodiumMg": 1,
+    "satFat": 0.028,
+    "sugars": 10.39
+   },
+   "portions": {
+    "unit": {
+     "name": "manzana mediana",
+     "grams": 182,
+     "usda": "1 medium (3\" dia)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 125,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "naranja",
+   "fdcId": 169097,
+   "name": "Naranja",
+   "aliases": [
+    "naranja"
+   ],
+   "usdaDescription": "Oranges, raw, all commercial varieties",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.94,
+    "fat": 0.12,
+    "carbs": 11.75,
+    "kcal": 47,
+    "fiber": 2.4,
+    "sodiumMg": 0,
+    "satFat": 0.015,
+    "sugars": 9.35
+   },
+   "portions": {
+    "unit": {
+     "name": "naranja",
+     "grams": 184,
+     "usda": "1 large (3-1/16\" dia)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 180,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "fresas",
+   "fdcId": 167762,
+   "name": "Fresas",
+   "aliases": [
+    "fresas",
+    "fresa"
+   ],
+   "usdaDescription": "Strawberries, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.67,
+    "fat": 0.3,
+    "carbs": 7.68,
+    "kcal": 32,
+    "fiber": 2,
+    "sodiumMg": 1,
+    "satFat": 0.015,
+    "sugars": 4.89
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 152,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "arandanos",
+   "fdcId": 171711,
+   "name": "Arándanos",
+   "aliases": [
+    "arándanos",
+    "arandanos"
+   ],
+   "usdaDescription": "Blueberries, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.74,
+    "fat": 0.33,
+    "carbs": 14.49,
+    "kcal": 57,
+    "fiber": 2.4,
+    "sodiumMg": 1,
+    "satFat": 0.028,
+    "sugars": 9.96
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 148,
+    "densityGPerMl": 0.626
+   }
+  },
+  {
+   "key": "frambuesas",
+   "fdcId": 167755,
+   "name": "Frambuesas",
+   "aliases": [
+    "frambuesas"
+   ],
+   "usdaDescription": "Raspberries, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.2,
+    "fat": 0.65,
+    "carbs": 11.94,
+    "kcal": 52,
+    "fiber": 6.5,
+    "sodiumMg": 1,
+    "satFat": 0.019,
+    "sugars": 4.42
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 123,
+    "densityGPerMl": 0.52
+   }
+  },
+  {
+   "key": "limon",
+   "fdcId": 167746,
+   "name": "Limón sin piel",
+   "aliases": [
+    "limón",
+    "limon"
+   ],
+   "usdaDescription": "Lemons, raw, without peel",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.1,
+    "fat": 0.3,
+    "carbs": 9.32,
+    "kcal": 29,
+    "fiber": 2.8,
+    "sodiumMg": 2,
+    "satFat": 0.039,
+    "sugars": 2.5
+   },
+   "portions": {
+    "unit": {
+     "name": "limón",
+     "grams": 84,
+     "usda": "1 fruit (2-3/8\" dia)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 212,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "zumo_limon",
+   "fdcId": 167747,
+   "name": "Zumo de limón",
+   "aliases": [
+    "zumo de limón",
+    "jugo de limón"
+   ],
+   "usdaDescription": "Lemon juice, raw",
+   "category": "frutas_verduras",
+   "group": "condiment",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.35,
+    "fat": 0.24,
+    "carbs": 6.9,
+    "kcal": 22,
+    "fiber": 0.3,
+    "sodiumMg": 1,
+    "satFat": 0.04,
+    "sugars": 2.52
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 244,
+    "densityGPerMl": 1.031
+   }
+  },
+  {
+   "key": "uvas",
+   "fdcId": 174683,
+   "name": "Uvas",
+   "aliases": [
+    "uvas"
+   ],
+   "usdaDescription": "Grapes, red or green (European type, such as Thompson seedless), raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.72,
+    "fat": 0.16,
+    "carbs": 18.1,
+    "kcal": 69,
+    "fiber": 0.9,
+    "sodiumMg": 2,
+    "satFat": 0.054,
+    "sugars": 15.48
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 151,
+    "densityGPerMl": 0.638
+   }
+  },
+  {
+   "key": "pina",
+   "fdcId": 169124,
+   "name": "Piña",
+   "aliases": [
+    "piña"
+   ],
+   "usdaDescription": "Pineapple, raw, all varieties",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.54,
+    "fat": 0.12,
+    "carbs": 13.12,
+    "kcal": 50,
+    "fiber": 1.4,
+    "sodiumMg": 1,
+    "satFat": 0.009,
+    "sugars": 9.85
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 165,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "mango",
+   "fdcId": 169910,
+   "name": "Mango",
+   "aliases": [
+    "mango"
+   ],
+   "usdaDescription": "Mangos, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.82,
+    "fat": 0.38,
+    "carbs": 14.98,
+    "kcal": 60,
+    "fiber": 1.6,
+    "sodiumMg": 1,
+    "satFat": 0.092,
+    "sugars": 13.66
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 165,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pera",
+   "fdcId": 169118,
+   "name": "Pera",
+   "aliases": [
+    "pera"
+   ],
+   "usdaDescription": "Pears, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.36,
+    "fat": 0.14,
+    "carbs": 15.23,
+    "kcal": 57,
+    "fiber": 3.1,
+    "sodiumMg": 1,
+    "satFat": 0.022,
+    "sugars": 9.75
+   },
+   "portions": {
+    "unit": {
+     "name": "pera mediana",
+     "grams": 178,
+     "usda": "1 medium"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 140,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "kiwi",
+   "fdcId": 168153,
+   "name": "Kiwi",
+   "aliases": [
+    "kiwi"
+   ],
+   "usdaDescription": "Kiwifruit, green, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 1.14,
+    "fat": 0.52,
+    "carbs": 14.66,
+    "kcal": 61,
+    "fiber": 3,
+    "sodiumMg": 3,
+    "satFat": 0.029,
+    "sugars": 8.99
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 180,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "melocoton",
+   "fdcId": 169928,
+   "name": "Melocotón",
+   "aliases": [
+    "melocotón",
+    "durazno"
+   ],
+   "usdaDescription": "Peaches, yellow, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.91,
+    "fat": 0.25,
+    "carbs": 9.54,
+    "kcal": 39,
+    "fiber": 1.5,
+    "sodiumMg": 0,
+    "satFat": 0.019,
+    "sugars": 8.39
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 154,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "melon",
+   "fdcId": 169092,
+   "name": "Melón cantalupo",
+   "aliases": [
+    "melón",
+    "melon"
+   ],
+   "usdaDescription": "Melons, cantaloupe, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.84,
+    "fat": 0.19,
+    "carbs": 8.16,
+    "kcal": 34,
+    "fiber": 0.9,
+    "sodiumMg": 16,
+    "satFat": 0.051,
+    "sugars": 7.86
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 177,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "sandia",
+   "fdcId": 167765,
+   "name": "Sandía",
+   "aliases": [
+    "sandía",
+    "sandia"
+   ],
+   "usdaDescription": "Watermelon, raw",
+   "category": "frutas_verduras",
+   "group": "fruit",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.61,
+    "fat": 0.15,
+    "carbs": 7.55,
+    "kcal": 30,
+    "fiber": 0.4,
+    "sodiumMg": 1,
+    "satFat": 0.016,
+    "sugars": 6.2
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 154,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "almendras",
+   "fdcId": 170567,
+   "name": "Almendras",
+   "aliases": [
+    "almendras"
+   ],
+   "usdaDescription": "Nuts, almonds",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "raw",
+   "allergens": [
+    "frutos_cascara"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 21.15,
+    "fat": 49.93,
+    "carbs": 21.55,
+    "kcal": 579,
+    "fiber": 12.5,
+    "sodiumMg": 1,
+    "satFat": 3.802,
+    "sugars": 4.35
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 143,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "nueces",
+   "fdcId": 170187,
+   "name": "Nueces",
+   "aliases": [
+    "nueces"
+   ],
+   "usdaDescription": "Nuts, walnuts, english",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "raw",
+   "allergens": [
+    "frutos_cascara"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 15.23,
+    "fat": 65.21,
+    "carbs": 13.71,
+    "kcal": 654,
+    "fiber": 6.7,
+    "sodiumMg": 2,
+    "satFat": 6.126,
+    "sugars": 2.61
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 117,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "anacardos",
+   "fdcId": 170162,
+   "name": "Anacardos crudos",
+   "aliases": [
+    "anacardos"
+   ],
+   "usdaDescription": "Nuts, cashew nuts, raw",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "raw",
+   "allergens": [
+    "frutos_cascara"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 18.22,
+    "fat": 43.85,
+    "carbs": 30.19,
+    "kcal": 553,
+    "fiber": 3.3,
+    "sodiumMg": 12,
+    "satFat": 7.783,
+    "sugars": 5.91
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pistachos",
+   "fdcId": 170184,
+   "name": "Pistachos crudos",
+   "aliases": [
+    "pistachos"
+   ],
+   "usdaDescription": "Nuts, pistachio nuts, raw",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "raw",
+   "allergens": [
+    "frutos_cascara"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 20.16,
+    "fat": 45.32,
+    "carbs": 27.17,
+    "kcal": 560,
+    "fiber": 10.6,
+    "sodiumMg": 1,
+    "satFat": 5.907,
+    "sugars": 7.66
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 123,
+    "densityGPerMl": 0.52
+   }
+  },
+  {
+   "key": "avellanas",
+   "fdcId": 170581,
+   "name": "Avellanas",
+   "aliases": [
+    "avellanas"
+   ],
+   "usdaDescription": "Nuts, hazelnuts or filberts",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "raw",
+   "allergens": [
+    "frutos_cascara"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 14.95,
+    "fat": 60.75,
+    "carbs": 16.7,
+    "kcal": 628,
+    "fiber": 9.7,
+    "sodiumMg": 0,
+    "satFat": 4.464,
+    "sugars": 4.34
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 115,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "cacahuetes",
+   "fdcId": 172430,
+   "name": "Cacahuetes crudos",
+   "aliases": [
+    "cacahuetes",
+    "maní"
+   ],
+   "usdaDescription": "Peanuts, all types, raw",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "raw",
+   "allergens": [
+    "cacahuete"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 25.8,
+    "fat": 49.24,
+    "carbs": 16.13,
+    "kcal": 567,
+    "fiber": 8.5,
+    "sodiumMg": 18,
+    "satFat": 6.279,
+    "sugars": 4.72
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 146,
+    "densityGPerMl": 0.617
+   }
+  },
+  {
+   "key": "crema_cacahuete",
+   "fdcId": 172470,
+   "name": "Crema de cacahuete sin sal",
+   "aliases": [
+    "crema de cacahuete",
+    "mantequilla de cacahuete"
+   ],
+   "usdaDescription": "Peanut butter, smooth style, without salt",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "prepared",
+   "allergens": [
+    "cacahuete"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 22.21,
+    "fat": 51.36,
+    "carbs": 22.31,
+    "kcal": 598,
+    "fiber": 5,
+    "sodiumMg": 17,
+    "satFat": 10.325,
+    "sugars": 10.49
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 16,
+     "usda": "2 tbsp"
+    },
+    "tbspG": 16,
+    "tspG": null,
+    "cupG": 258,
+    "densityGPerMl": 1.091
+   }
+  },
+  {
+   "key": "semillas_chia",
+   "fdcId": 170554,
+   "name": "Semillas de chía",
+   "aliases": [
+    "chía",
+    "chia"
+   ],
+   "usdaDescription": "Seeds, chia seeds, dried",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 16.54,
+    "fat": 30.74,
+    "carbs": 42.12,
+    "kcal": 486,
+    "fiber": 34.4,
+    "sodiumMg": 16,
+    "satFat": 3.33,
+    "sugars": null
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "semillas_sesamo",
+   "fdcId": 170150,
+   "name": "Semillas de sésamo",
+   "aliases": [
+    "sésamo",
+    "sesamo",
+    "ajonjolí"
+   ],
+   "usdaDescription": "Seeds, sesame seeds, whole, dried",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "dry",
+   "allergens": [
+    "sesamo"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 17.73,
+    "fat": 49.67,
+    "carbs": 23.45,
+    "kcal": 573,
+    "fiber": 11.8,
+    "sodiumMg": 11,
+    "satFat": 6.957,
+    "sugars": 0.3
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 9,
+    "tspG": null,
+    "cupG": 144,
+    "densityGPerMl": 0.609
+   }
+  },
+  {
+   "key": "semillas_girasol",
+   "fdcId": 170562,
+   "name": "Pipas de girasol peladas",
+   "aliases": [
+    "pipas",
+    "semillas de girasol"
+   ],
+   "usdaDescription": "Seeds, sunflower seed kernels, dried",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 20.78,
+    "fat": 51.46,
+    "carbs": 20,
+    "kcal": 584,
+    "fiber": 8.6,
+    "sodiumMg": 9,
+    "satFat": 4.455,
+    "sugars": 2.62
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 46,
+    "densityGPerMl": 0.592
+   }
+  },
+  {
+   "key": "semillas_lino",
+   "fdcId": 169414,
+   "name": "Semillas de lino",
+   "aliases": [
+    "lino",
+    "linaza"
+   ],
+   "usdaDescription": "Seeds, flaxseed",
+   "category": "frutos_secos",
+   "group": "nut_seed",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 18.29,
+    "fat": 42.16,
+    "carbs": 28.88,
+    "kcal": 534,
+    "fiber": 27.3,
+    "sodiumMg": 30,
+    "satFat": 3.663,
+    "sugars": 1.55
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 10.3,
+    "tspG": 3.4,
+    "cupG": 168,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "aceite_oliva",
+   "fdcId": 171413,
+   "name": "Aceite de oliva",
+   "aliases": [
+    "aceite",
+    "aceite de oliva",
+    "AOVE",
+    "aceite de oliva virgen extra"
+   ],
+   "usdaDescription": "Oil, olive, salad or cooking",
+   "category": "despensa",
+   "group": "fat_oil",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0,
+    "fat": 100,
+    "carbs": 0,
+    "kcal": 884,
+    "fiber": 0,
+    "sodiumMg": 2,
+    "satFat": 13.808,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 13.5,
+     "usda": "1 tablespoon"
+    },
+    "tbspG": 13.5,
+    "tspG": 4.5,
+    "cupG": 216,
+    "densityGPerMl": 0.913
+   }
+  },
+  {
+   "key": "aceite_girasol",
+   "fdcId": 172338,
+   "name": "Aceite de girasol alto oleico",
+   "aliases": [
+    "aceite de girasol"
+   ],
+   "usdaDescription": "Oil, sunflower, high oleic (70% and over)",
+   "category": "despensa",
+   "group": "fat_oil",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0,
+    "fat": 100,
+    "carbs": 0,
+    "kcal": 884,
+    "fiber": 0,
+    "sodiumMg": 0,
+    "satFat": 9.859,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 14,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 14,
+    "tspG": 4.5,
+    "cupG": 218,
+    "densityGPerMl": 0.921
+   }
+  },
+  {
+   "key": "aceite_canola",
+   "fdcId": 172336,
+   "name": "Aceite de colza (canola)",
+   "aliases": [
+    "aceite de colza",
+    "canola"
+   ],
+   "usdaDescription": "Oil, canola",
+   "category": "despensa",
+   "group": "fat_oil",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0,
+    "fat": 100,
+    "carbs": 0,
+    "kcal": 884,
+    "fiber": 0,
+    "sodiumMg": 0,
+    "satFat": 7.365,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 14,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 14,
+    "tspG": 4.5,
+    "cupG": 218,
+    "densityGPerMl": 0.921
+   }
+  },
+  {
+   "key": "miel",
+   "fdcId": 169640,
+   "name": "Miel",
+   "aliases": [
+    "miel"
+   ],
+   "usdaDescription": "Honey",
+   "category": "despensa",
+   "group": "sweetener",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "honey",
+   "per100g": {
+    "protein": 0.3,
+    "fat": 0,
+    "carbs": 82.4,
+    "kcal": 304,
+    "fiber": 0.2,
+    "sodiumMg": 4,
+    "satFat": 0,
+    "sugars": 82.12
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 21,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 21,
+    "tspG": null,
+    "cupG": 339,
+    "densityGPerMl": 1.433
+   }
+  },
+  {
+   "key": "azucar",
+   "fdcId": 169655,
+   "name": "Azúcar blanco",
+   "aliases": [
+    "azúcar",
+    "azucar"
+   ],
+   "usdaDescription": "Sugars, granulated",
+   "category": "despensa",
+   "group": "sweetener",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0,
+    "fat": 0,
+    "carbs": 99.98,
+    "kcal": 387,
+    "fiber": 0,
+    "sodiumMg": 1,
+    "satFat": 0,
+    "sugars": 99.8
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 4.2,
+     "usda": "1 tsp"
+    },
+    "tbspG": null,
+    "tspG": 4.2,
+    "cupG": 200,
+    "densityGPerMl": 0.845
+   }
+  },
+  {
+   "key": "azucar_moreno",
+   "fdcId": 168833,
+   "name": "Azúcar moreno",
+   "aliases": [
+    "azúcar moreno"
+   ],
+   "usdaDescription": "Sugars, brown",
+   "category": "despensa",
+   "group": "sweetener",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.12,
+    "fat": 0,
+    "carbs": 98.09,
+    "kcal": 380,
+    "fiber": 0,
+    "sodiumMg": 28,
+    "satFat": 0,
+    "sugars": 97.02
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 3,
+     "usda": "1 tsp unpacked"
+    },
+    "tbspG": null,
+    "tspG": 3,
+    "cupG": 220,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "sirope_arce",
+   "fdcId": 169661,
+   "name": "Sirope de arce",
+   "aliases": [
+    "sirope de arce",
+    "jarabe de arce"
+   ],
+   "usdaDescription": "Syrups, maple",
+   "category": "despensa",
+   "group": "sweetener",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0.04,
+    "fat": 0.06,
+    "carbs": 67.04,
+    "kcal": 260,
+    "fiber": 0,
+    "sodiumMg": 12,
+    "satFat": 0.007,
+    "sugars": 60.46
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 20,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 20,
+    "tspG": null,
+    "cupG": 315,
+    "densityGPerMl": 1.331
+   }
+  },
+  {
+   "key": "cacao_puro",
+   "fdcId": 169593,
+   "name": "Cacao puro en polvo sin azúcar",
+   "aliases": [
+    "cacao en polvo",
+    "cacao puro"
+   ],
+   "usdaDescription": "Cocoa, dry powder, unsweetened",
+   "category": "despensa",
+   "group": "other",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [
+    "leche"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 19.6,
+    "fat": 13.7,
+    "carbs": 57.9,
+    "kcal": 228,
+    "fiber": 37,
+    "sodiumMg": 21,
+    "satFat": 8.07,
+    "sugars": 1.75
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 5.4,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 5.4,
+    "tspG": null,
+    "cupG": 86,
+    "densityGPerMl": 0.364
+   }
+  },
+  {
+   "key": "chocolate_negro_70",
+   "fdcId": 170273,
+   "name": "Chocolate negro 70-85 %",
+   "aliases": [
+    "chocolate negro",
+    "chocolate"
+   ],
+   "usdaDescription": "Chocolate, dark, 70-85% cacao solids",
+   "category": "despensa",
+   "group": "sweetener",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "leche",
+    "soja",
+    "frutos_cascara"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 7.79,
+    "fat": 42.63,
+    "carbs": 45.9,
+    "kcal": 598,
+    "fiber": 10.9,
+    "sodiumMg": 20,
+    "satFat": 24.489,
+    "sugars": 23.99
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "gelatina_neutra",
+   "fdcId": 169599,
+   "name": "Gelatina neutra en polvo",
+   "aliases": [
+    "gelatina",
+    "gelatina neutra"
+   ],
+   "usdaDescription": "Gelatins, dry powder, unsweetened",
+   "category": "despensa",
+   "group": "other",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": "meat",
+   "per100g": {
+    "protein": 85.6,
+    "fat": 0.1,
+    "carbs": 0,
+    "kcal": 335,
+    "fiber": 0,
+    "sodiumMg": 196,
+    "satFat": 0.07,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "sobre",
+     "grams": 7,
+     "usda": "1 envelope (1 tbsp)"
+    },
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "salsa_soja",
+   "fdcId": 174277,
+   "name": "Salsa de soja (con trigo)",
+   "aliases": [
+    "salsa de soja",
+    "soja",
+    "shoyu"
+   ],
+   "usdaDescription": "Soy sauce made from soy and wheat (shoyu)",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [
+    "soja",
+    "gluten"
+   ],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 8.14,
+    "fat": 0.57,
+    "carbs": 4.93,
+    "kcal": 53,
+    "fiber": 0.8,
+    "sodiumMg": 5493,
+    "satFat": 0.073,
+    "sugars": 0.4
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 16,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 16,
+    "tspG": 5.3,
+    "cupG": 255,
+    "densityGPerMl": 1.078
+   }
+  },
+  {
+   "key": "salsa_worcestershire",
+   "fdcId": 171610,
+   "name": "Salsa Worcestershire (Perrins)",
+   "aliases": [
+    "salsa perrins",
+    "worcestershire"
+   ],
+   "usdaDescription": "Sauce, worcestershire",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [
+    "pescado"
+   ],
+   "mayContain": [
+    "gluten",
+    "sulfitos",
+    "apio",
+    "mostaza"
+   ],
+   "animal": "fish",
+   "per100g": {
+    "protein": 0,
+    "fat": 0,
+    "carbs": 19.17,
+    "kcal": 77,
+    "fiber": 0,
+    "sodiumMg": 1300,
+    "satFat": 0,
+    "sugars": 10.03
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 17,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 17,
+    "tspG": null,
+    "cupG": 275,
+    "densityGPerMl": 1.162
+   }
+  },
+  {
+   "key": "salsa_marinara",
+   "fdcId": 171192,
+   "name": "Salsa de tomate para pasta (marinara)",
+   "aliases": [
+    "salsa para pasta",
+    "marinara",
+    "salsa boloñesa de bote"
+   ],
+   "usdaDescription": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "apio",
+    "leche",
+    "soja"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 1.39,
+    "fat": 1.61,
+    "carbs": 7.43,
+    "kcal": 50,
+    "fiber": 1.8,
+    "sodiumMg": 437,
+    "satFat": 0.218,
+    "sugars": 4.91
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pesto",
+   "fdcId": 171579,
+   "name": "Pesto refrigerado",
+   "aliases": [
+    "pesto"
+   ],
+   "usdaDescription": "Sauce, pesto, ready-to-serve, refrigerated",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [
+    "leche",
+    "frutos_cascara"
+   ],
+   "mayContain": [
+    "cacahuete"
+   ],
+   "animal": "dairy",
+   "per100g": {
+    "protein": 9.83,
+    "fat": 37.6,
+    "carbs": 10.09,
+    "kcal": 418,
+    "fiber": 1.8,
+    "sodiumMg": 603,
+    "satFat": 7.07,
+    "sugars": 6.33
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 252,
+    "densityGPerMl": 1.065
+   }
+  },
+  {
+   "key": "ketchup",
+   "fdcId": 168556,
+   "name": "Kétchup",
+   "aliases": [
+    "ketchup",
+    "kétchup"
+   ],
+   "usdaDescription": "Catsup",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "apio",
+    "mostaza",
+    "sulfitos"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 1.04,
+    "fat": 0.1,
+    "carbs": 27.4,
+    "kcal": 101,
+    "fiber": 0.3,
+    "sodiumMg": 907,
+    "satFat": 0.014,
+    "sugars": 21.27
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 17,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 17,
+    "tspG": null,
+    "cupG": 240,
+    "densityGPerMl": 1.014
+   }
+  },
+  {
+   "key": "mostaza",
+   "fdcId": 172234,
+   "name": "Mostaza preparada",
+   "aliases": [
+    "mostaza"
+   ],
+   "usdaDescription": "Mustard, prepared, yellow",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [
+    "mostaza"
+   ],
+   "mayContain": [
+    "sulfitos"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 3.74,
+    "fat": 3.34,
+    "carbs": 5.83,
+    "kcal": 60,
+    "fiber": 4,
+    "sodiumMg": 1104,
+    "satFat": 0.214,
+    "sugars": 0.92
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 5,
+     "usda": "1 tsp or 1 packet"
+    },
+    "tbspG": null,
+    "tspG": 5,
+    "cupG": 249,
+    "densityGPerMl": 1.052
+   }
+  },
+  {
+   "key": "mayonesa",
+   "fdcId": 171009,
+   "name": "Mayonesa",
+   "aliases": [
+    "mayonesa"
+   ],
+   "usdaDescription": "Salad dressing, mayonnaise, regular",
+   "category": "salsas",
+   "group": "sauce",
+   "state": "prepared",
+   "allergens": [
+    "huevo"
+   ],
+   "mayContain": [
+    "mostaza",
+    "sulfitos"
+   ],
+   "animal": "egg",
+   "per100g": {
+    "protein": 0.96,
+    "fat": 74.85,
+    "carbs": 0.57,
+    "kcal": 680,
+    "fiber": 0,
+    "sodiumMg": 635,
+    "satFat": 11.703,
+    "sugars": 0.57
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 13.8,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 13.8,
+    "tspG": null,
+    "cupG": 220,
+    "densityGPerMl": 0.93
+   }
+  },
+  {
+   "key": "vinagre_balsamico",
+   "fdcId": 172241,
+   "name": "Vinagre balsámico",
+   "aliases": [
+    "balsámico",
+    "vinagre de módena"
+   ],
+   "usdaDescription": "Vinegar, balsamic",
+   "category": "salsas",
+   "group": "condiment",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "sulfitos"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 0.49,
+    "fat": 0,
+    "carbs": 17.03,
+    "kcal": 88,
+    "fiber": null,
+    "sodiumMg": 23,
+    "satFat": 0,
+    "sugars": 14.95
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 16,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 16,
+    "tspG": 5.3,
+    "cupG": 255,
+    "densityGPerMl": 1.078
+   }
+  },
+  {
+   "key": "vinagre_manzana",
+   "fdcId": 173469,
+   "name": "Vinagre de manzana",
+   "aliases": [
+    "vinagre de manzana",
+    "vinagre"
+   ],
+   "usdaDescription": "Vinegar, cider",
+   "category": "salsas",
+   "group": "condiment",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "sulfitos"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0.93,
+    "kcal": 21,
+    "fiber": 0,
+    "sodiumMg": 5,
+    "satFat": 0,
+    "sugars": 0.4
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharada",
+     "grams": 14.9,
+     "usda": "1 tbsp"
+    },
+    "tbspG": 14.9,
+    "tspG": 5,
+    "cupG": 239,
+    "densityGPerMl": 1.01
+   }
+  },
+  {
+   "key": "caldo_pollo",
+   "fdcId": 172884,
+   "name": "Caldo de pollo casero",
+   "aliases": [
+    "caldo de pollo",
+    "caldo"
+   ],
+   "usdaDescription": "Soup, stock, chicken, home-prepared",
+   "category": "despensa",
+   "group": "broth",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "apio",
+    "gluten"
+   ],
+   "animal": "meat",
+   "per100g": {
+    "protein": 2.52,
+    "fat": 1.2,
+    "carbs": 3.53,
+    "kcal": 36,
+    "fiber": 0,
+    "sodiumMg": 143,
+    "satFat": 0.321,
+    "sugars": 1.58
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 240,
+    "densityGPerMl": 1.014
+   }
+  },
+  {
+   "key": "caldo_carne",
+   "fdcId": 171538,
+   "name": "Caldo de carne listo para usar",
+   "aliases": [
+    "caldo de carne"
+   ],
+   "usdaDescription": "Soup, beef broth or bouillon canned, ready-to-serve",
+   "category": "despensa",
+   "group": "broth",
+   "state": "prepared",
+   "allergens": [],
+   "mayContain": [
+    "apio",
+    "gluten",
+    "soja"
+   ],
+   "animal": "meat",
+   "per100g": {
+    "protein": 1.14,
+    "fat": 0.22,
+    "carbs": 0.04,
+    "kcal": 7,
+    "fiber": 0,
+    "sodiumMg": 372,
+    "satFat": 0.11,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 240,
+    "densityGPerMl": 1.014
+   }
+  },
+  {
+   "key": "sal",
+   "fdcId": 173468,
+   "name": "Sal de mesa",
+   "aliases": [
+    "sal"
+   ],
+   "usdaDescription": "Salt, table",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "kcal": 0,
+    "fiber": 0,
+    "sodiumMg": 38758,
+    "satFat": 0,
+    "sugars": 0
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 6,
+     "usda": "1 tsp"
+    },
+    "tbspG": 18,
+    "tspG": 6,
+    "cupG": 292,
+    "densityGPerMl": 1.234
+   }
+  },
+  {
+   "key": "pimienta_negra",
+   "fdcId": 170931,
+   "name": "Pimienta negra molida",
+   "aliases": [
+    "pimienta"
+   ],
+   "usdaDescription": "Spices, pepper, black",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 10.39,
+    "fat": 3.26,
+    "carbs": 63.95,
+    "kcal": 251,
+    "fiber": 25.3,
+    "sodiumMg": 20,
+    "satFat": 1.392,
+    "sugars": 0.64
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2.3,
+     "usda": "1 tsp, ground"
+    },
+    "tbspG": 6.9,
+    "tspG": 2.3,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "pimenton",
+   "fdcId": 171329,
+   "name": "Pimentón",
+   "aliases": [
+    "pimentón",
+    "paprika"
+   ],
+   "usdaDescription": "Spices, paprika",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 14.14,
+    "fat": 12.89,
+    "carbs": 53.99,
+    "kcal": 282,
+    "fiber": 34.9,
+    "sodiumMg": 68,
+    "satFat": 2.14,
+    "sugars": 10.34
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2.3,
+     "usda": "1 tsp"
+    },
+    "tbspG": 6.8,
+    "tspG": 2.3,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "comino",
+   "fdcId": 170923,
+   "name": "Comino",
+   "aliases": [
+    "comino"
+   ],
+   "usdaDescription": "Spices, cumin seed",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 17.81,
+    "fat": 22.27,
+    "carbs": 44.24,
+    "kcal": 375,
+    "fiber": 10.5,
+    "sodiumMg": 168,
+    "satFat": 1.535,
+    "sugars": 2.25
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2.1,
+     "usda": "1 tsp, whole"
+    },
+    "tbspG": 6,
+    "tspG": 2.1,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "oregano",
+   "fdcId": 171328,
+   "name": "Orégano seco",
+   "aliases": [
+    "orégano",
+    "oregano"
+   ],
+   "usdaDescription": "Spices, oregano, dried",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 9,
+    "fat": 4.28,
+    "carbs": 68.92,
+    "kcal": 265,
+    "fiber": 42.5,
+    "sodiumMg": 25,
+    "satFat": 1.551,
+    "sugars": 4.09
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 1,
+     "usda": "1 tsp, leaves"
+    },
+    "tbspG": null,
+    "tspG": 1,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "albahaca_seca",
+   "fdcId": 171317,
+   "name": "Albahaca seca",
+   "aliases": [
+    "albahaca seca"
+   ],
+   "usdaDescription": "Spices, basil, dried",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 22.98,
+    "fat": 4.07,
+    "carbs": 47.75,
+    "kcal": 233,
+    "fiber": 37.7,
+    "sodiumMg": 76,
+    "satFat": 2.157,
+    "sugars": 1.71
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 0.7,
+     "usda": "1 tsp, leaves"
+    },
+    "tbspG": 2.1,
+    "tspG": 0.7,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "canela",
+   "fdcId": 171320,
+   "name": "Canela molida",
+   "aliases": [
+    "canela"
+   ],
+   "usdaDescription": "Spices, cinnamon, ground",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 3.99,
+    "fat": 1.24,
+    "carbs": 80.59,
+    "kcal": 247,
+    "fiber": 53.1,
+    "sodiumMg": 10,
+    "satFat": 0.345,
+    "sugars": 2.17
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2.6,
+     "usda": "1 tsp"
+    },
+    "tbspG": 7.8,
+    "tspG": 2.6,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "curry",
+   "fdcId": 170924,
+   "name": "Curry en polvo",
+   "aliases": [
+    "curry"
+   ],
+   "usdaDescription": "Spices, curry powder",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [
+    "mostaza",
+    "apio"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 14.29,
+    "fat": 14.01,
+    "carbs": 55.83,
+    "kcal": 325,
+    "fiber": 53.2,
+    "sodiumMg": 52,
+    "satFat": 1.648,
+    "sugars": 2.76
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2,
+     "usda": "1 tsp"
+    },
+    "tbspG": 6.3,
+    "tspG": 2,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "ajo_polvo",
+   "fdcId": 171325,
+   "name": "Ajo en polvo",
+   "aliases": [
+    "ajo en polvo"
+   ],
+   "usdaDescription": "Spices, garlic powder",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 16.55,
+    "fat": 0.73,
+    "carbs": 72.73,
+    "kcal": 331,
+    "fiber": 9,
+    "sodiumMg": 60,
+    "satFat": 0.249,
+    "sugars": 2.43
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 3.1,
+     "usda": "1 tsp"
+    },
+    "tbspG": 9.7,
+    "tspG": 3.1,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "cebolla_polvo",
+   "fdcId": 171327,
+   "name": "Cebolla en polvo",
+   "aliases": [
+    "cebolla en polvo"
+   ],
+   "usdaDescription": "Spices, onion powder",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 10.41,
+    "fat": 1.04,
+    "carbs": 79.12,
+    "kcal": 341,
+    "fiber": 15.2,
+    "sodiumMg": 73,
+    "satFat": 0.219,
+    "sugars": 6.63
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2.4,
+     "usda": "1 tsp"
+    },
+    "tbspG": 6.9,
+    "tspG": 2.4,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "curcuma",
+   "fdcId": 172231,
+   "name": "Cúrcuma molida",
+   "aliases": [
+    "cúrcuma",
+    "curcuma"
+   ],
+   "usdaDescription": "Spices, turmeric, ground",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 9.68,
+    "fat": 3.25,
+    "carbs": 67.14,
+    "kcal": 312,
+    "fiber": 22.7,
+    "sodiumMg": 27,
+    "satFat": 1.838,
+    "sugars": 3.21
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 3,
+     "usda": "1 tsp"
+    },
+    "tbspG": 9.4,
+    "tspG": 3,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "tomillo",
+   "fdcId": 170938,
+   "name": "Tomillo seco",
+   "aliases": [
+    "tomillo"
+   ],
+   "usdaDescription": "Spices, thyme, dried",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 9.11,
+    "fat": 7.43,
+    "carbs": 63.94,
+    "kcal": 276,
+    "fiber": 37,
+    "sodiumMg": 55,
+    "satFat": 2.73,
+    "sugars": 1.71
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 1,
+     "usda": "1 tsp, leaves"
+    },
+    "tbspG": 2.7,
+    "tspG": 1,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "romero",
+   "fdcId": 171333,
+   "name": "Romero seco",
+   "aliases": [
+    "romero"
+   ],
+   "usdaDescription": "Spices, rosemary, dried",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 4.88,
+    "fat": 15.22,
+    "carbs": 64.06,
+    "kcal": 331,
+    "fiber": 42.6,
+    "sodiumMg": 50,
+    "satFat": 7.371,
+    "sugars": null
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 1.2,
+     "usda": "1 tsp"
+    },
+    "tbspG": 3.3,
+    "tspG": 1.2,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "chile_polvo",
+   "fdcId": 171319,
+   "name": "Chile en polvo",
+   "aliases": [
+    "chile en polvo",
+    "guindilla molida"
+   ],
+   "usdaDescription": "Spices, chili powder",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [
+    "apio"
+   ],
+   "animal": null,
+   "per100g": {
+    "protein": 13.46,
+    "fat": 14.28,
+    "carbs": 49.7,
+    "kcal": 282,
+    "fiber": 34.8,
+    "sodiumMg": 2867,
+    "satFat": 2.462,
+    "sugars": 7.19
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2.7,
+     "usda": "1 tsp"
+    },
+    "tbspG": 8,
+    "tspG": 2.7,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "jengibre_polvo",
+   "fdcId": 170926,
+   "name": "Jengibre molido",
+   "aliases": [
+    "jengibre molido"
+   ],
+   "usdaDescription": "Spices, ginger, ground",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 8.98,
+    "fat": 4.24,
+    "carbs": 71.62,
+    "kcal": 335,
+    "fiber": 14.1,
+    "sodiumMg": 27,
+    "satFat": 2.599,
+    "sugars": 3.39
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 1.8,
+     "usda": "1 tsp"
+    },
+    "tbspG": 5.2,
+    "tspG": 1.8,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "nuez_moscada",
+   "fdcId": 171326,
+   "name": "Nuez moscada molida",
+   "aliases": [
+    "nuez moscada"
+   ],
+   "usdaDescription": "Spices, nutmeg, ground",
+   "category": "especias",
+   "group": "spice",
+   "state": "dry",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 5.84,
+    "fat": 36.31,
+    "carbs": 49.29,
+    "kcal": 525,
+    "fiber": 20.8,
+    "sodiumMg": 16,
+    "satFat": 25.94,
+    "sugars": 2.99
+   },
+   "portions": {
+    "unit": {
+     "name": "cucharadita",
+     "grams": 2.2,
+     "usda": "1 tsp"
+    },
+    "tbspG": 7,
+    "tspG": 2.2,
+    "cupG": null,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "albahaca_fresca",
+   "fdcId": 172232,
+   "name": "Albahaca fresca",
+   "aliases": [
+    "albahaca"
+   ],
+   "usdaDescription": "Basil, fresh",
+   "category": "frutas_verduras",
+   "group": "herb",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 3.15,
+    "fat": 0.64,
+    "carbs": 2.65,
+    "kcal": 23,
+    "fiber": 1.6,
+    "sodiumMg": 4,
+    "satFat": 0.041,
+    "sugars": 0.3
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 2.65,
+    "tspG": null,
+    "cupG": 24,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "perejil",
+   "fdcId": 170416,
+   "name": "Perejil fresco",
+   "aliases": [
+    "perejil"
+   ],
+   "usdaDescription": "Parsley, fresh",
+   "category": "frutas_verduras",
+   "group": "herb",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.97,
+    "fat": 0.79,
+    "carbs": 6.33,
+    "kcal": 36,
+    "fiber": 3.3,
+    "sodiumMg": 56,
+    "satFat": 0.132,
+    "sugars": 0.85
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": 3.8,
+    "tspG": null,
+    "cupG": 60,
+    "densityGPerMl": null
+   }
+  },
+  {
+   "key": "cilantro",
+   "fdcId": 169997,
+   "name": "Cilantro fresco",
+   "aliases": [
+    "cilantro"
+   ],
+   "usdaDescription": "Coriander (cilantro) leaves, raw",
+   "category": "frutas_verduras",
+   "group": "herb",
+   "state": "raw",
+   "allergens": [],
+   "mayContain": [],
+   "animal": null,
+   "per100g": {
+    "protein": 2.13,
+    "fat": 0.52,
+    "carbs": 3.67,
+    "kcal": 23,
+    "fiber": 2.8,
+    "sodiumMg": 46,
+    "satFat": 0.014,
+    "sugars": 0.87
+   },
+   "portions": {
+    "unit": null,
+    "tbspG": null,
+    "tspG": null,
+    "cupG": 16,
+    "densityGPerMl": 0.068
+   }
+  }
+ ]
+}
