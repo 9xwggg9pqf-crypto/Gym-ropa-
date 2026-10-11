@@ -12,5 +12,5 @@ export default defineConfig([
       'react-hooks/set-state-in-effect': 'warn',
     },
   },
-  globalIgnores(['.next/**', 'out/**', 'build/**', 'next-env.d.ts', 'scripts/**', 'public/sw.js']),
+  globalIgnores(['.next/**', 'out/**', 'build/**', 'next-env.d.ts', 'scripts/**', 'public/sw.js', 'artifact/**']),
 ])
