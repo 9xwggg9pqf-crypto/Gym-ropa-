@@ -3,6 +3,7 @@ import { jsonError, requireUser } from '@/lib/api'
 import { computeNutrition } from '@/lib/nutrition/compute'
 import { SaveRecipeInput } from '@/lib/recipes/schema'
 import type { Recipe } from '@/lib/nutrition/types'
+import { findReferencePhoto } from '@/lib/photos'
 
 export const runtime = 'nodejs'
 
@@ -24,6 +25,8 @@ export async function POST(request: Request) {
     version = (parent.version as number) + (count ?? 0) + 1
   }
 
+  const photo = imageUrl ? null : await findReferencePhoto(recipe.title)
+
   const { data, error } = await auth.supabase
     .from('recipes')
     .insert({
@@ -38,8 +41,8 @@ export async function POST(request: Request) {
       source,
       parent_id: parentId ?? null,
       version,
-      image_url: imageUrl ?? null,
-      image_credit: imageCredit ?? null,
+      image_url: imageUrl ?? photo?.url ?? null,
+      image_credit: imageCredit ?? photo?.credit ?? null,
     })
     .select('id, created_at')
     .single()

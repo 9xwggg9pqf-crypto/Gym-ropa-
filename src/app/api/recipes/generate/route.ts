@@ -13,6 +13,11 @@ export async function POST(request: Request) {
   const input = parsed.data
 
   const [profile, pantry] = await Promise.all([loadProfile(auth.supabase, auth.user.id), loadPantry(auth.supabase)])
+  let favoriteRecipes: string[] = []
+  if (profile?.personalization_consent) {
+    const { data } = await auth.supabase.from('recipes').select('title').eq('is_favorite', true).order('updated_at', { ascending: false }).limit(10)
+    favoriteRecipes = (data ?? []).map((r) => String(r.title).slice(0, 80))
+  }
   const kind = input.mode === 'plato_concreto' || input.targets ? 'adapt' : 'generate'
 
   return withQuota(auth, kind, async () => {
@@ -25,6 +30,7 @@ export async function POST(request: Request) {
       usualMinutes: profile?.usual_minutes,
       defaultServings: profile?.default_servings,
       favorites: profile?.favorites,
+      favoriteRecipes,
     })
     if (input.request.trim()) {
       await auth.supabase.from('search_history').insert({ query: input.request.trim().slice(0, 500), kind: input.mode === 'plato_concreto' ? 'dish' : 'ingredients' })

@@ -131,7 +131,7 @@ function roundGrams(grams: number, ing: RecipeIngredient, food: Food): number {
       return (Math.max(0, Math.round(units * 2) / 2) / one)
     }
   }
-  if (grams >= 40) return Math.round(grams / 5) * 5
+  if (grams >= 20) return Math.round(grams / 5) * 5
   return Math.round(grams)
 }
 

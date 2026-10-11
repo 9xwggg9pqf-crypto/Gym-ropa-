@@ -12,7 +12,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:db": "bash scripts/test-db.sh",
-    "foods:build": "node scripts/build-foods.mjs"
+    "foods:build": "node scripts/build-foods.mjs",
+    "test:e2e": "playwright test"
   },
   "engines": {
     "node": ">=20"
@@ -30,6 +31,7 @@
     "zod": "^3.25.76"
   },
   "devDependencies": {
+    "@axe-core/playwright": "^4.10.2",
     "@playwright/test": "^1.56.0",
     "@types/node": "^22.20.5",
     "@types/react": "^19.3.0",

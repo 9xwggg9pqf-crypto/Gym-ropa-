@@ -15,7 +15,7 @@ export interface PantryStock {
   name: string
   quantity: number | null
   unit: Unit
-  status: 'disponible' | 'agotado' | 'revisar'
+  status?: 'disponible' | 'agotado' | 'revisar'
 }
 
 export interface AggregatedItem {
@@ -74,7 +74,7 @@ export function aggregateShopping(recipes: PlannedRecipe[], pantry: PantryStock[
     if (item.neededG !== null && item.foodKey) {
       const food = resolveFood(item.foodKey)
       const stock = pantry
-        .filter((p) => p.status === 'disponible' && p.foodKey === item.foodKey && p.quantity !== null)
+        .filter((p) => (p.status ?? 'disponible') === 'disponible' && p.foodKey === item.foodKey && p.quantity !== null)
         .reduce((s, p) => s + (toGrams(p.quantity!, p.unit, food).grams ?? 0), 0)
       item.pantryG = stock
       item.toBuy = Math.max(0, Math.ceil(item.neededG - stock))

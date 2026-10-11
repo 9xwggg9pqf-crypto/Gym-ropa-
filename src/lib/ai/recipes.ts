@@ -42,6 +42,8 @@ export interface GenerationContext {
   usualMinutes?: number | null
   defaultServings?: number | null
   favorites?: string[]
+  /** Títulos de recetas favoritas, sólo si el usuario ha dado su consentimiento. */
+  favoriteRecipes?: string[]
 }
 
 export interface GeneratedRecipe {
@@ -81,6 +83,7 @@ export function buildUserMessage(input: GenerateInput, ctx: GenerationContext): 
     `Dieta: ${p.diets.length ? p.diets.map((d) => DIET_LABELS[d]).join(', ') : 'sin restricciones'}.`,
     `No le gusta: ${p.dislikes.length ? p.dislikes.join(', ') : '—'}.`,
     ctx.favorites?.length ? `Le gusta especialmente: ${ctx.favorites.join(', ')}.` : '',
+    ctx.favoriteRecipes?.length ? `Recetas favoritas guardadas (inspiración, no las repitas): ${ctx.favoriteRecipes.join('; ')}.` : '',
     ctx.cookingLevel ? `Nivel en la cocina: ${ctx.cookingLevel}.` : '',
     ctx.budget ? `Presupuesto: ${ctx.budget}.` : '',
   ]

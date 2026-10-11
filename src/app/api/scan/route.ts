@@ -8,6 +8,9 @@ export const maxDuration = 60
 export async function POST(request: Request) {
   const auth = await requireUser()
   if (auth instanceof Response) return auth
+  // Rechaza cuerpos demasiado grandes antes de leerlos en memoria.
+  const length = Number(request.headers.get('content-length') ?? 0)
+  if (length > MAX_IMAGE_BYTES + 64 * 1024) return jsonError(413, 'too_large', 'La imagen supera los 5 MB. Prueba con una foto más pequeña.')
   let form: FormData
   try {
     form = await request.formData()

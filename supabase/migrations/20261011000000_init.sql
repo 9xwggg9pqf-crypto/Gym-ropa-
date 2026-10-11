@@ -33,16 +33,17 @@ create table public.plans (
   sort integer not null default 0
 );
 
+-- LÍMITES PROVISIONALES: deben ajustarse con el coste real medido (usage_events guarda los tokens).
 insert into public.plans (id, name, description, price_cents, billing_interval, limits, features, sort) values
   ('guest', 'Invitado', 'Prueba sin registrarte', 0, null,
-   '{"scan": 2, "generate": 3, "adapt": 3, "saved_recipes": 5, "per_minute": 3}',
+   '{"scan": 2, "generate": 2, "adapt": 2, "saved_recipes": 5, "per_minute": 3}',
    '["Prueba el escáner y el generador sin crear cuenta"]', 0),
   ('free', 'Gratis', 'Para cocinar mejor cada día', 0, null,
-   '{"scan": 10, "generate": 20, "adapt": 20, "saved_recipes": 30, "per_minute": 5}',
-   '["10 escaneos al mes", "20 recetas generadas al mes", "Cálculo nutricional completo", "30 recetas guardadas", "Planificador y lista de la compra"]', 1),
+   '{"scan": 5, "generate": 10, "adapt": 10, "saved_recipes": 30, "per_minute": 5}',
+   '["5 escaneos al mes", "10 generaciones y 10 adaptaciones de recetas al mes", "Cálculo nutricional completo", "30 recetas guardadas", "Planificador y lista de la compra"]', 1),
   ('premium', 'Premium', 'Para quien cocina con objetivos', 499, 'month',
-   '{"scan": 120, "generate": 300, "adapt": 300, "saved_recipes": 2000, "per_minute": 10}',
-   '["120 escaneos al mes", "300 recetas generadas al mes", "Ajuste avanzado a calorías y macros", "Recetas guardadas ilimitadas (uso razonable)", "Historial completo y colecciones"]', 2);
+   '{"scan": 60, "generate": 150, "adapt": 150, "saved_recipes": 2000, "per_minute": 10}',
+   '["60 escaneos al mes", "150 generaciones y 150 adaptaciones al mes", "Ajuste avanzado a calorías y macros", "Hasta 2.000 recetas guardadas", "Historial completo y colecciones"]', 2);
 
 create table public.subscriptions (
   user_id uuid primary key references auth.users (id) on delete cascade,

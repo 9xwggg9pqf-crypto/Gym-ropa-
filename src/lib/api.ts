@@ -3,8 +3,7 @@ import { NextResponse } from 'next/server'
 import type { SupabaseClient, User } from '@supabase/supabase-js'
 import { AIError } from '@/lib/ai/client'
 import { createSupabaseAdmin, getSessionUser } from '@/lib/supabase/server'
-import type { DietaryProfile, Diet } from '@/lib/nutrition/restrictions'
-import type { Allergen, Unit } from '@/lib/nutrition/types'
+import type { Unit } from '@/lib/nutrition/types'
 import type { PantryEntry } from '@/lib/recipes/enrich'
 import { logEvent } from '@/lib/log'
 
@@ -21,33 +20,10 @@ export async function requireUser(): Promise<AuthedContext | NextResponse> {
   return { supabase, user }
 }
 
-export interface ProfileRow {
-  id: string
-  display_name: string | null
-  locale: string
-  region: string
-  profile_type: string
-  cooking_level: string
-  usual_minutes: number | null
-  budget: string | null
-  default_servings: number
-  allergies: string[]
-  intolerances: string[]
-  diets: string[]
-  dislikes: string[]
-  favorites: string[]
-  default_targets: unknown
-  personalization_consent: boolean
-}
+export type { ProfileRow } from '@/lib/api-types'
+import type { ProfileRow } from '@/lib/api-types'
 
-export function toDietaryProfile(p: Pick<ProfileRow, 'allergies' | 'intolerances' | 'diets' | 'dislikes'> | null | undefined): DietaryProfile {
-  return {
-    allergies: (p?.allergies ?? []) as Allergen[],
-    intolerances: p?.intolerances ?? [],
-    diets: (p?.diets ?? []) as Diet[],
-    dislikes: p?.dislikes ?? [],
-  }
-}
+export { toDietaryProfileClient as toDietaryProfile } from '@/lib/profile'
 
 export async function loadProfile(supabase: SupabaseClient, userId: string): Promise<ProfileRow | null> {
   const { data } = await supabase.from('profiles').select('*').eq('id', userId).maybeSingle()
